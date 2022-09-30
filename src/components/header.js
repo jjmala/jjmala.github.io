@@ -5,6 +5,7 @@ import { saveAs } from 'file-saver';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFilePdf } from '@fortawesome/free-solid-svg-icons';
 import useMetadata from '../hooks/useMetadata';
+import useResponsive from '../hooks/useResponsive';
 
 const StyledHeader = styled.header`
   padding: 6rem 0 2rem;
@@ -25,10 +26,15 @@ const StyledHeader = styled.header`
   .badges a:not(:last-child) {
     margin-right: 5px;
   }
+  h1, p.is-3 {
+    font-family: 'Julius Sans One', sans-serif !important;
+    font-weight: 800;
+  }
 `;
 
 const Header = () => {
   const { social } = useMetadata();
+  const { isMobile } = useResponsive();
   function onSavePdf() {
     saveAs('/resume.pdf', `zhaklinmala-resume-${new Date().getFullYear()}.pdf`);
   }
@@ -47,12 +53,11 @@ const Header = () => {
         height={150}
       />
       <h1 className="title is-1 is-size-2-mobile">
-        Zhaklin <span className="has-text-link">Mala</span>
+        Jacqueline<span className="has-text-link">Mala</span>
       </h1>
       <p className="subtitle is-3 is-size-5-mobile is-uppercase">
         <small>
           Psicologo clinico, psicoterapeuta in formazione sistemico relazionale
-          <br />
           interprete e mediatrice
         </small>
       </p>
@@ -63,13 +68,9 @@ const Header = () => {
         <a href={social.github} aria-label="github" rel="noreferrer" target="_blank">
           <img alt="github" className="image" src="https://img.shields.io/badge/-Github-black?logo=github" />
         </a>
-      </div>
-      <div className="buttons is-centered print-hidden">
-        <button type="button" className="button is-medium" onClick={onSavePdf}>
-          <FontAwesomeIcon icon={faFilePdf} size="1x" />
-          &nbsp;
-          <span>Download PDF</span>
-        </button>
+        <a className="print-hidden" href="/resume.pdf" download={`zhaklinmala-resume-${new Date().getFullYear()}.pdf`} aria-label="pdf" rel="noreferrer" target="_blank">
+          <img alt="pdf" className="image" src="https://img.shields.io/badge/Download-PDF-green" />
+        </a>
       </div>
     </StyledHeader>
   );

@@ -97,7 +97,7 @@ export default function EducationSide() {
         <p className="subtitle is-5 is-uppercase mb-1">
           M.IN.D. SAS e Centro Clinico Crocetta
           {' :: '}
-          <small className="has-text-weight-light has-text-danger">Torino, Italia</small>
+          <small className="has-text-weight-light">Torino, Italia</small>
         </p>
       </article>
       <article>
@@ -113,7 +113,7 @@ export default function EducationSide() {
         <p className="subtitle is-5 is-uppercase mb-1">
           Associazione Divorzisti Italiani, Scuola Adleriana di Psicoterapia, SIM carabinieri ed E.M.M.A
           {' :: '}
-          <small className="has-text-weight-light has-text-danger">Torino, Italia</small>
+          <small className="has-text-weight-light">Torino, Italia</small>
         </p>
       </article>
       <article>
@@ -129,7 +129,7 @@ export default function EducationSide() {
         <p className="subtitle is-5 is-uppercase mb-1">
           DPL Mediazione Co
           {' :: '}
-          <small className="has-text-weight-light has-text-danger">Milano, Italia</small>
+          <small className="has-text-weight-light">Milano, Italia</small>
         </p>
       </article>
       <article>
@@ -140,7 +140,7 @@ export default function EducationSide() {
             <em>Psicodiagnostica, colloquio clinico, counseling, neuropsicologia clinica</em>
           </small>
           {' :: '}
-          <small className="has-text-weight-light has-text-danger">2017-2020</small>
+          <small className="has-text-weight-light">2017-2020</small>
         </h4>
         <p className="subtitle is-5 is-uppercase mb-1">
           Università di Torino

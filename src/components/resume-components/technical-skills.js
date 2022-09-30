@@ -10,7 +10,7 @@ export default function TechnicalSkills() {
           <br />
           Applicativi <strong>Microsoft Office, Adobe Premiere Pro, Resolume Arena</strong>
           <br />
-          Web <strong>HTML e CSS a livello base</strong>
+          Web <strong>HTML, CSS a livello base</strong>
         </p>
       </article>
     </section>

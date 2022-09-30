@@ -14,31 +14,32 @@ export default function ProfessionalExperience() {
       {/*EMERGENZA UCRAINA*/}
       <StyledArticle>
         <h4 className="title is-4 is-uppercase">
-          Attività nel contesto dell'Emergenza Ucraina in Italia ::{' '}
-          <small className="has-text-weight-light">da Apr 2022 a oggi</small>
+          Attività Emergenza Ucraina ::{' '}
+          <small className="has-text-weight-light">da Marzo 2022 - in corso</small>
         </h4>
         <p className="subtitle is-5 is-uppercase mb-1">
           <a href="https://casagiglio.org/">Coordinamento Mir Now!</a>
           {' :: '}
-          <small className="has-text-weight-light">Torino, IT</small>
+          <small className="has-text-weight-light">Torino, IT, Przemysl, PL, Lviv, Kyiv, Leopoli, UA;</small>
         </p>
         <p>
           <small>
-            Casa Giglio Onlus, Fondazione Paideia, Pausa Caf Scs, Acomazzi Cooperativa, Ufficio Pastorale Migranti
+            Casa Giglio Onlus, Fondazione Paideia, Pausa Caf Scs, Acomazzi Coop., Ufficio Pastorale Migranti, Casa Ukraina, Estero
           </small>
         </p>
         <ul>
-          <li>• Traduzione di documentazione;</li>
+          <li>• Punto di contatto per i rifugiati;</li>
           <li>• Mediazione culturale;</li>
-          <li>• Organizzazione di attività di gruppo;</li>
-          <li>• Traduzione di terapie psicoterapiche e di visite mediche specialistiche;</li>
-          <li>• Punto di contatto per i rifugiati per la risoluzione di problematiche sul territorio italiano;</li>
+          <li>• Traduzione di documentazione, terapie e visite mediche specialistiche;</li>
+          <li>• Evacuazione da Leopoli e organizzazione di accoglienza in Italia di nuclei familiari, Lviv UA;</li>
+          <li>• Consegna medicinali del Banco Farmaceutico agli ospedali del territorio ucraino, Lviv e Kyiv, UA;</li>
+          <li>• Organizzazione di attività;</li>
         </ul>
       </StyledArticle>
       {/*INTERPRETARIATO*/}
       <StyledArticle>
         <h4 className="title is-4 is-uppercase">
-          Interpretariato, Traduzione e Mediazione :: <small className="has-text-weight-light">dal 2011 a oggi</small>
+          Interpretariato, Traduzione e Mediazione :: <small className="has-text-weight-light">dal 2011 - in corso</small>
         </h4>
         <p className="subtitle is-5 is-uppercase mb-1">Aziende e Privati</p>
         <ul>
@@ -86,30 +87,6 @@ export default function ProfessionalExperience() {
           Dipartimento di Scienze Sociali Università degli Studi di Napoli Federico II
         </p>
       </StyledArticle>
-      {/*Consegna medicinali*/}
-      <StyledArticle>
-        <h4 className="title is-4 is-uppercase">
-          Consegna medicinali del Banco Farmaceutico agli ospedali del territorio ucraino ::{' '}
-          <small className="has-text-weight-light">Mag 2022</small>
-        </h4>
-        <p className="subtitle is-5 is-uppercase mb-1">
-          Facilitazione della consegna agli ospedali di Sumy e Kharkiv e incontro con nuovi contatti
-          {' :: '}
-          <small className="has-text-weight-light">Lviv e Kyiv, UA</small>
-        </p>
-      </StyledArticle>
-      {/*Emergenza Ucraina*/}
-      <StyledArticle>
-        <h4 className="title is-4 is-uppercase">
-          Missione di Evacuazione nel contesto dell'Emergenza Ucraina ::{' '}
-          <small className="has-text-weight-light">Apr 2022</small>
-        </h4>
-        <p className="subtitle is-5 is-uppercase mb-1">
-          Evacuazione da Leopoli e organizzazione di accoglienza in Italia di nuclei familiari
-          {' :: '}
-          <small className="has-text-weight-light">Lviv, UA – Torino, IT</small>
-        </p>
-      </StyledArticle>
       {/*Protezione Civile*/}
       <StyledArticle>
         <h4 className="title is-4 is-uppercase">
@@ -130,27 +107,7 @@ export default function ProfessionalExperience() {
           </li>
         </ul>
       </StyledArticle>
-      {/*TESCO*/}
-      <StyledArticle>
-        <h4 className="title is-4 is-uppercase">
-          Interprete presso il Transit Center Tesco in Polonia ::{' '}
-          <small className="has-text-weight-light">Mar 2022</small>
-        </h4>
-        <p className="subtitle is-5 is-uppercase mb-1">
-          Evacuazione da Leopoli e organizzazione di accoglienza in Italia di dieci nuclei familiari
-          {' :: '}
-          <small className="has-text-weight-light">Przemysl, PL</small>
-        </p>
-        <ul>
-          <li>• Accoglienza, traduzione documenti e raccolta delle storie personali dei rifugiati;</li>
-          <li>• Traduzione visite mediche e profilassi sanitaria;</li>
-          <li>
-            • Mediazione culturale presso l'Ospedale San Giovanni Bosco con una paziente ucraina anziana affetta da
-            Covid.
-          </li>
-        </ul>
-      </StyledArticle>
-      {/*Consegna medicinali*/}
+      {/*Supplenze*/}
       <StyledArticle>
         <h4 className="title is-4 is-uppercase">
           Supplenze nella scuola primaria e dell'infanzia ::{' '}
@@ -166,7 +123,7 @@ export default function ProfessionalExperience() {
           <li>• Insegnante di sostegno.</li>
         </ul>
       </StyledArticle>
-      {/*Consegna medicinali*/}
+      {/*Relatrice*/}
       <StyledArticle>
         <h4 className="title is-4 is-uppercase">
           Relatrice al Seminario ”Il Sistema degli Oggetti” :: <small className="has-text-weight-light">Giu 2021</small>
