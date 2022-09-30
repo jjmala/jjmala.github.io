@@ -1,7 +1,6 @@
 import React from 'react';
 import { StaticImage } from 'gatsby-plugin-image';
 import styled from 'styled-components';
-import { saveAs } from 'file-saver';
 import useMetadata from '../hooks/useMetadata';
 import useResponsive from '../hooks/useResponsive';
 
@@ -33,9 +32,6 @@ const StyledHeader = styled.header`
 const Header = () => {
   const { social } = useMetadata();
   const { isMobile } = useResponsive();
-  function onSavePdf() {
-    saveAs('/resume.pdf', `zhaklinmala-resume-${new Date().getFullYear()}.pdf`);
-  }
   return (
     <StyledHeader className="has-text-centered has-text-grey-dark is-uppercase">
       <StaticImage
@@ -44,14 +40,14 @@ const Header = () => {
         imgClassName="is-rounded"
         style={{ margin: '0 auto', borderRadius: '100%' }}
         src="../images/photo.jpeg"
-        alt="Zhaklin Mala"
+        alt="Jacqueline Mala"
         placeholder="dominantColor"
         layout="fixed"
         width={150}
         height={150}
       />
       <h1 className="title is-1 is-size-2-mobile">
-        Jacqueline<span className="has-text-link">Mala</span>
+        Jacqueline{isMobile ? ' ' : ''}<span className="has-text-link">Mala</span>
       </h1>
       <p className="subtitle is-3 is-size-5-mobile is-uppercase">
         <small>

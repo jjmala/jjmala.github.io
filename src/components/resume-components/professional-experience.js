@@ -174,7 +174,6 @@ export default function ProfessionalExperience() {
           <li>• Ricerca patrocinata dall'Università di Parigi e di Torino sul teatro sociale nel territorio.</li>
         </ul>
       </StyledArticle>
-
       {/*PAGE BREAK*/}
       <h2 className="title is-2 is-size-3-mobile mt-5 pagebreak print-only">Esperienze professionali (continua)</h2>
       {/*Tex Mex Eldorado*/}
@@ -231,7 +230,6 @@ export default function ProfessionalExperience() {
           <small className="has-text-weight-light">Torino, IT</small>
         </p>
         <ul>
-          <li>• due anni di servizio pre-scuola;</li>
           <li>• animazione al summer-camp in lingua inglese;</li>
           <li>• animazione durante il soggiorno estivo dei ragazzi dell'istituto presso Igea Marina</li>
         </ul>

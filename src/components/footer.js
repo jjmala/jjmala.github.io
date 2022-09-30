@@ -27,14 +27,14 @@ const Footer = () => {
       <div className="container">
         <section>
           <p className="print-only">
-            La sottoscritta, ai sensi dell'art. 46 DPR 28.12.2000 n. 445, dichiara veritiero tutto ci `o che viene
-            riportato e di essere consapevole delle responsabilit `a penali e civili a cui va in contro in caso di
+            La sottoscritta, ai sensi dell'art. 46 DPR 28.12.2000 n. 445, dichiara veritiero tutto ciò che viene
+            riportato e di essere consapevole delle responsabilità penali e civili a cui va in contro in caso di
             dichiarazione mendace, oltre alla conseguente immediata decadenza dei benefici eventualmente acquisiti sulla
             base della dichiarazione non veritiera. Acconsento al trattamento dei dati personali ai sensi della vigente
             normativa in materia di privacy, D.L. 30 giugno 2003 n. 196. Torino, 16.09.2022
           </p>
           <p className="print-hidden">
-            Zhaklin Mala
+            Jacqueline Mala
             <br />
             <a href={`tel:${contacts.phone}`} aria-label="phone">
               <small>

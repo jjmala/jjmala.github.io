@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Zhaklin Mala`,
-    description: `Zhaklin Mala - Psicologo clinico, psicoterapeuta in formazione sistemico relazionale, interprete e mediatrice`,
+    title: `Jacqueline Mala`,
+    description: `Jacqueline Mala - Psicologo clinico, psicoterapeuta in formazione sistemico relazionale, interprete e mediatrice`,
     author: `@jjmala`,
     sources: 'https://github.com/jjmala/jjmala.github.io',
     contacts: {

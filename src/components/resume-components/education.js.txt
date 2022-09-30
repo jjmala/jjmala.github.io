@@ -56,13 +56,3 @@ export default function Education() {
     </>
   );
 }
-
-//
-// Laurea Triennale | Scienze e Tecniche Psicologiche 2013 – 2016
-// Università degli Studi di Torino Torino, Italia
-
-// Anno Accademico | Scienze Internazionali, dello Sviluppo e della Cooperazione
-// Università degli Studi di Torino Torino, Italia `
-
-// Diploma | Liceo Classico Europeo 2006 – 2011
-// Convitto Nazionale Umberto I, Torino Torino, Italia
