@@ -55,8 +55,7 @@ const Header = () => {
       </h1>
       <p className="subtitle is-3 is-size-5-mobile is-uppercase">
         <small>
-          Psicologo clinico, psicoterapeuta in formazione sistemico relazionale
-          interprete e mediatrice
+          Psicologo clinico, psicoterapeuta in formazione sistemico relazionale, interprete e mediatrice
         </small>
       </p>
       <div className="badges buttons is-centered print-hidden">
