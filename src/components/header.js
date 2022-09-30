@@ -2,8 +2,6 @@ import React from 'react';
 import { StaticImage } from 'gatsby-plugin-image';
 import styled from 'styled-components';
 import { saveAs } from 'file-saver';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faFilePdf } from '@fortawesome/free-solid-svg-icons';
 import useMetadata from '../hooks/useMetadata';
 import useResponsive from '../hooks/useResponsive';
 

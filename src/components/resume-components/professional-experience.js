@@ -20,7 +20,7 @@ export default function ProfessionalExperience() {
         <p className="subtitle is-5 is-uppercase mb-1">
           <a href="https://casagiglio.org/">Coordinamento Mir Now!</a>
           {' :: '}
-          <small className="has-text-weight-light">Torino, IT, Przemysl, PL, Lviv, Kyiv, Leopoli, UA;</small>
+          <small className="has-text-weight-light">Torino, IT; Przemysl, PL; Lviv, UA; Kyiv, UA</small>
         </p>
         <p>
           <small>
