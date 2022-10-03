@@ -32,7 +32,7 @@ export default function Education() {
             Tesi di ricerca: progettazione, raccolta dati, analisi e validazione test sulla simulazione dei sintomi
             post-traumatici da stress in ambito peritale, traduzione in tre lingue
             <br />
-            <a href="https://malingering.netlify.app">https://malingering.netlify.app</a>
+            <a href="https://malingering.netlify.app">Link</a>
           </small>
         </p>
         <p>
