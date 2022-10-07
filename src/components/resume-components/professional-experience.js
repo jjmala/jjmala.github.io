@@ -174,8 +174,6 @@ export default function ProfessionalExperience() {
           <li>• Ricerca patrocinata dall'Università di Parigi e di Torino sul teatro sociale nel territorio.</li>
         </ul>
       </StyledArticle>
-      {/*PAGE BREAK*/}
-      <h2 className="title is-2 is-size-3-mobile mt-5 pagebreak print-only">Esperienze professionali (continua)</h2>
       {/*Tex Mex Eldorado*/}
       <StyledArticle>
         <h4 className="title is-4 is-uppercase">
