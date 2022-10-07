@@ -31,7 +31,7 @@ const StyledHeader = styled.header`
 
 const Header = () => {
   const { social } = useMetadata();
-  const { isMobile } = useResponsive();
+  const { isMobile, isPrint } = useResponsive();
   return (
     <StyledHeader className="has-text-centered has-text-grey-dark is-uppercase">
       <StaticImage

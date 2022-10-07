@@ -1,8 +1,10 @@
 import React from 'react';
 import useMetadata from '../../hooks/useMetadata';
+import useResponsive from '../../hooks/useResponsive';
 
 export default function Information() {
   const { contacts } = useMetadata();
+  const { isPrint } = useResponsive();
   return (
     <section className="section">
       <h2 className="title is-2 is-size-3-mobile">Informazioni</h2>
@@ -25,7 +27,7 @@ export default function Information() {
           <br />
           Progetto&nbsp;
           <a href={contacts.project} rel="noreferrer" target="_blank">
-            <strong>Malingering</strong>
+            <strong>{isPrint ? contacts.project : 'Malingering'}</strong>
           </a>
         </p>
       </article>
