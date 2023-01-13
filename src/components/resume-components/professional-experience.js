@@ -53,7 +53,7 @@ export default function ProfessionalExperience() {
           </li>
           <li>
             • Traduttrice di cartelle cliniche e interprete durante visite mediche specialistiche in ospedali, lingue
-            RU, UA, EN, IT. Fondazione Paideia, Torino. Apr 2022 – in corso, referente Fabrizio Serra: +393488712999;
+            RU, UA, EN, IT. Fondazione Paideia, Torino. Apr 2022 – Ott 2022, referente Fabrizio Serra: +393488712999;
           </li>
           <li>
             • Interprete per cooperativa sociale Pausa Cafe` a Przemysl in Polonia. Mar 2022, referente Marco Ferrero:
