@@ -34,18 +34,18 @@ const Header = () => {
   const { isMobile, isPrint } = useResponsive();
   return (
     <StyledHeader className="has-text-centered has-text-grey-dark is-uppercase">
-      <StaticImage
-        as="figure"
-        className="image is-1b1 mb-5"
-        imgClassName="is-rounded"
-        style={{ margin: '0 auto', borderRadius: '100%' }}
-        src="../images/photo.jpeg"
-        alt="Jacqueline Mala"
-        placeholder="dominantColor"
-        layout="fixed"
-        width={150}
-        height={150}
-      />
+      {/*<StaticImage*/}
+      {/*  as="figure"*/}
+      {/*  className="image is-1b1 mb-5"*/}
+      {/*  imgClassName="is-rounded"*/}
+      {/*  style={{ margin: '0 auto', borderRadius: '100%' }}*/}
+      {/*  src="../images/photo.jpeg"*/}
+      {/*  alt="Jacqueline Mala"*/}
+      {/*  placeholder="dominantColor"*/}
+      {/*  layout="fixed"*/}
+      {/*  width={150}*/}
+      {/*  height={150}*/}
+      {/*/>*/}
       <h1 className="title is-1 is-size-2-mobile">
         Jacqueline{isMobile ? ' ' : ''}<span className="has-text-link">Mala</span>
       </h1>
