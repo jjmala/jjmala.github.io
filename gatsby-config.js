@@ -40,13 +40,5 @@ module.exports = {
         display: 'swap',
       },
     },
-    // {
-    //   resolve: "gatsby-plugin-google-tagmanager",
-    //   options: {
-    //     id: "GTM-MKCWNDK",
-    //     includeInDevelopment: false,
-    //     defaultDataLayer: { platform: "gatsby" },
-    //   },
-    // },
   ],
 };

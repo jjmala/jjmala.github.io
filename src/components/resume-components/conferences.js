@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function EducationSide() {
   return (
-    <section className="section">
+    <section className="section pagebreak">
       <h2 className="title is-2 is-size-3-mobile">Seminari, laboratori e convegni</h2>
       <article>
         <h4 className="title is-4 is-uppercase">
