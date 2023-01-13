@@ -35,7 +35,7 @@ export default function EducationSide() {
         <p>
           <strong>Corso di Formazione per Animatori</strong>
           {' :: '}
-          <small className="has-text-weight-light">2019</small>
+          <small className="has-text-weight-light">2009</small>
           <br />
           C.E.M.E.A. - Centri di Esercitazione ai Metodi dell'Educazione Attiva
           {' :: '}
