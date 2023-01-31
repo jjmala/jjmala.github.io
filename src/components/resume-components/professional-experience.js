@@ -63,13 +63,13 @@ export default function ProfessionalExperience() {
         <p className="subtitle is-5 is-uppercase mb-1">Aziende e Privati</p>
         <ul>
           <li> 
-            • Mediazione per OR.S.A. Cooperativa Sociale, Torino. Nov 2022 - Mar 2023;
+            • Mediazione per OR.S.A. Cooperativa Sociale. Nov 2022 - Mar 2023;
           <li>
             • Mediazione culturale e interpretariato. Casa Giglio Onlus, Torino. Apr 2022 - Dic 2022;
           </li>
           </li>
           <li>
-            • Interpretariato in simultanea. Nuova Collaborazione, Torino. Giu – Set 2022;
+            • Interpretariato in simultanea. Ebincolf, Torino. Giu – Set 2022;
           </li>
           <li>
             • Traduttrice di cartelle cliniche e interprete durante visite mediche specialistiche in ospedali, lingue
