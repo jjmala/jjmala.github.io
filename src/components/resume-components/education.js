@@ -23,7 +23,7 @@ export default function Education() {
           {' :: '}
           <small className="has-text-weight-light">2022 – in corso</small>
           <br />
-          <small>Istituto EMMECI s.c. Torino, Italia</small>
+          <small>Istituto EMMECI s.c., sede torinese del Centro Studi Psicoterapia Familiare e Relazionale di Roma, Italia</small>
         </p>
         <p>
           <strong>Laurea Magistrale | Psicologia Clinica | 107/110</strong>
