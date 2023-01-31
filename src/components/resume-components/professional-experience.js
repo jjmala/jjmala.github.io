@@ -11,6 +11,23 @@ export default function ProfessionalExperience() {
   return (
     <section className="section">
       <h2 className="title is-2 is-size-3-mobile">Esperienze professionali</h2>
+      {/*PROGETTO SUONI E IMMAGINI PER L'UCRAINA*/}
+      <StyledArticle>
+        <h4 className="title is-4 is-uppercase">
+          PROGETTO SUONI e IMMAGINI per L'UCRAINA :: <small className="has-text-weight-light"> Gennaio - in corso</small>
+        </h4>
+        <p className="subtitle is-5 is-uppercase mb-1">Giuliano Accomazzi Coop.</p>
+        <ul>
+          <li>
+            • Interviste agli sfollati di guerra presenti sul territorio; </li>
+          <li>
+            • Traduzione e creazione di sottotitoli; 
+          </li>
+          <li>
+            • Eventi musicali Suoni e Immagini il 21 e 28 gennaio 2023 con sostegno di Mir Now, Fondazione San Paolo, Fondazione Cantabile, Corale Polifonica Sommariva Bosco, Consolato Onorario Città di Torino e Gruppo Torinese Trasporti ;
+          </li>
+            </ul>
+     
       {/*EMERGENZA UCRAINA*/}
       <StyledArticle>
         <h4 className="title is-4 is-uppercase">
