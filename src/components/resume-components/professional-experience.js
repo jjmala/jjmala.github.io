@@ -131,7 +131,7 @@ export default function ProfessionalExperience() {
           <li>• Traduzione visite mediche e profilassi sanitaria;</li>
           <li>• Mediazione culturale presso l'Ospedale San Giovanni Bosco di Torino.</li>
         </ul>
-      </StyledArticle>;
+      </StyledArticle>
       {/*Supplenze*/
       }
       <StyledArticle>
@@ -148,7 +148,7 @@ export default function ProfessionalExperience() {
           <li>• Materie insegnate: italiano, storia, geografia, inglese, matematica, scienze e musica;</li>
           <li>• Insegnante di sostegno.</li>
         </ul>
-      </StyledArticle>;
+      </StyledArticle>
       {/*Relatrice*/
       }
       <StyledArticle>
@@ -156,7 +156,7 @@ export default function ProfessionalExperience() {
           Relatrice al Seminario ”Il Sistema degli Oggetti” :: <small className='has-text-weight-light'>Giu 2021</small>
         </h4>
         <p className='subtitle is-5 is-uppercase mb-1'>Accademia delle Belle Arti di Napoli</p>
-      </StyledArticle>;
+      </StyledArticle>
       {/*Tirocinio post-lauream*/
       }
       <StyledArticle>
@@ -184,7 +184,7 @@ export default function ProfessionalExperience() {
         <ul>
           <li>• lavoro in case-famiglia, referente: Robin Gjesdal +47 45236643</li>
         </ul>
-      </StyledArticle>;
+      </StyledArticle>
       {/*Tirocinio Accademico*/
       }
       <StyledArticle>
@@ -203,7 +203,7 @@ export default function ProfessionalExperience() {
           </li>
           <li>• Ricerca patrocinata dall'Università di Parigi e di Torino sul teatro sociale nel territorio.</li>
         </ul>
-      </StyledArticle>;
+      </StyledArticle>
       {/*Tex Mex Eldorado*/
       }
       <StyledArticle>
@@ -215,7 +215,7 @@ export default function ProfessionalExperience() {
           {' :: '}
           <small className='has-text-weight-light'>Torino, IT</small>
         </p>
-      </StyledArticle>;
+      </StyledArticle>
       {/*Bill and Toni's*/
       }
       <StyledArticle>
@@ -227,7 +227,7 @@ export default function ProfessionalExperience() {
           {' :: '}
           <small className='has-text-weight-light'>Sydney, AU</small>
         </p>
-      </StyledArticle>;
+      </StyledArticle>
       {/*Opera Bar*/
       }
       <StyledArticle>
@@ -239,7 +239,7 @@ export default function ProfessionalExperience() {
           {' :: '}
           <small className='has-text-weight-light'>Sydney, AU</small>
         </p>
-      </StyledArticle>;
+      </StyledArticle>
       {/*Yellow House*/
       }
       <StyledArticle>
@@ -251,7 +251,7 @@ export default function ProfessionalExperience() {
           {' :: '}
           <small className='has-text-weight-light'>Sydney, AU</small>
         </p>
-      </StyledArticle>;
+      </StyledArticle>
       {/*Assistente all'infanzia*/
       }
       <StyledArticle>
@@ -266,7 +266,7 @@ export default function ProfessionalExperience() {
           <li>• animazione al summer-camp in lingua inglese;</li>
           <li>• animazione durante il soggiorno estivo dei ragazzi dell'istituto presso Igea Marina</li>
         </ul>
-      </StyledArticle>;
+      </StyledArticle>
     </section>
   );
 }
