@@ -76,7 +76,7 @@ export default function ProfessionalExperience() {
             RU, UA, EN, IT. Fondazione Paideia, Torino. Apr 2022 – Ott 2022;
           </li>
           <li>
-            • Interpretariato per cooperativa sociale Pausa Cafe` a Przemysl in Polonia. Mar 2022;
+            • Interpretariato per cooperativa sociale Pausa Cafe` a Przemysl, PL. Mar 2022;
           </li>
           <li>
             • Traduzione di documenti EN>IT per privati ai fini di asseverazione. 2019;
@@ -86,10 +86,10 @@ export default function ProfessionalExperience() {
             di Torino. Traduzione di istruzioni d'uso di giocattoli e mediazione durante le trattative tra le due aziende. 2016;
           </li>
           <li>
-            • Interprete simultanea RU-UA-IT presso buyers per azienda di vestiario Space 2000 spa. Milano, ITA 2015;
+            • Interprete simultanea RU-UA-IT presso buyers per azienda di vestiario Space 2000 spa. Milano, ITA. 2015;
           </li>
           <li>
-            • Hostess di lingua tedesca e inglese per TUR IN TUR snc. nelle Langhe, ITA  2014;
+            • Hostess di lingua tedesca e inglese per TUR IN TUR snc. nelle Langhe, ITA. 2014;
           </li>
           <li>• Impartizione di lezioni private di italiano in presenza in Australia e a distanza in Russia. 2012-2016</li>
         </ul>
@@ -102,18 +102,9 @@ export default function ProfessionalExperience() {
         <p className="subtitle is-5 is-uppercase mb-1"> </p>
           <ul>
           <li>• Seminario "Squid Frame: Effetto Lucifero e serialità televisiva". Dipartimento di Scienze Sociali Università degli Studi di Napoli Federico II. Giu 2022;</li>
-          <li>• Seminario ”Il Sistema degli Oggetti”. Accademia delle Belle Arti di Napoli. Giugno 2021 ;</li>
+          <li>• Seminario ”Il Sistema degli Oggetti”. Accademia delle Belle Arti di Napoli. Giu 2021 ;</li>
         </ul>
-  
-      {/*Squid Frame*/}
-      <StyledArticle>
-        <h4 className="title is-4 is-uppercase">
-          Relatrice al Seminario "Squid Frame: Effetto Lucifero e serialità televisiva" ::{' '}
-          <small className="has-text-weight-light">Giu 2022</small>
-        </h4>
-        <p className="subtitle is-5 is-uppercase mb-1">
-          Dipartimento di Scienze Sociali Università degli Studi di Napoli Federico II
-        </p>
+     </StyledArticle>
       </StyledArticle>
       {/*Protezione Civile*/}
       <StyledArticle>
@@ -129,9 +120,7 @@ export default function ProfessionalExperience() {
         <ul>
           <li>• Accoglienza, traduzione documenti e raccolta delle storie personali dei rifugiati;</li>
           <li>• Traduzione visite mediche e profilassi sanitaria;</li>
-          <li>
-            • Mediazione culturale presso l'Ospedale San Giovanni Bosco di Torino.
-          </li>
+          <li>• Mediazione culturale presso l'Ospedale San Giovanni Bosco di Torino.</li>
         </ul>
       </StyledArticle>
       {/*Supplenze*/}
