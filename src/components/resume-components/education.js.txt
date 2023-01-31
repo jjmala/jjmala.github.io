@@ -27,7 +27,7 @@ export default function Education() {
           <small>Università degli Studi di Torino Torino, Italia</small>
           <br />
           <small>
-            Tesi di ricerca sul fenomeno del malingering. Progettazione, raccolta dati, analisi e validazione test sulla simulazione dei sintomi PTSD nei casi di violenza domestica in sede peritale. Traduzione e raccolta dati in tre lingue. <a href="https://malingering.netlify.app">https://malingering.netlify.app</a>
+            Tesi di ricerca sul fenomeno del malingering. Progettazione, raccolta dati, analisi e validazione test sulla simulazione in sede peritale dei sintomi PTSD nei casi di violenza domestica. Traduzione e raccolta dati in tre lingue. <a href="https://malingering.netlify.app">https://malingering.netlify.app</a>
           </small>
         </p>
         <p>
