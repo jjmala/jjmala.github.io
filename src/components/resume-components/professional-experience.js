@@ -24,7 +24,7 @@ export default function ProfessionalExperience() {
         </p>
         <p>
           <small>
-            Casa Giglio Onlus, Fondazione Paideia, Pausa Caf Scs, Acomazzi Coop., Ufficio Pastorale Migranti, Casa Ukraina, Estero
+            Casa Giglio Onlus, Fondazione Paideia, Pausa Cafè Scs, Giuliano Accomazzi Coop., Ufficio Pastorale Migranti, Casa Ukraina, Estero
           </small>
         </p>
         <ul>
