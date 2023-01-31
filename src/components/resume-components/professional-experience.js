@@ -27,7 +27,7 @@ export default function ProfessionalExperience() {
             • Eventi musicali Suoni e Immagini il 21 e 28 gennaio 2023 con sostegno di Mir Now, Fondazione San Paolo, Fondazione Cantabile, Corale Polifonica Sommariva Bosco, Consolato Onorario Città di Torino e Gruppo Torinese Trasporti ;
           </li>
             </ul>
-     
+           </StyledArticle>
       {/*EMERGENZA UCRAINA*/}
       <StyledArticle>
         <h4 className="title is-4 is-uppercase">
