@@ -149,14 +149,6 @@ export default function ProfessionalExperience() {
           <li>• Insegnante di sostegno.</li>
         </ul>
       </StyledArticle>
-      {/*Relatrice*/
-      }
-      <StyledArticle>
-        <h4 className='title is-4 is-uppercase'>
-          Relatrice al Seminario ”Il Sistema degli Oggetti” :: <small className='has-text-weight-light'>Giu 2021</small>
-        </h4>
-        <p className='subtitle is-5 is-uppercase mb-1'>Accademia delle Belle Arti di Napoli</p>
-      </StyledArticle>
       {/*Tirocinio post-lauream*/
       }
       <StyledArticle>
