@@ -47,12 +47,11 @@ export default function ProfessionalExperience() {
         <ul>
           <li>• Traduzioni al centro di aiuti umanitari Tesco a Przemysl, PL;</li>
           <li>• Punto di contatto per i rifugiati;</li>
-          <li>• Mediazione culturale e supporto psicologico;</li>
+          <li>• Mediazione culturale, supporto psicologico e traduzione di sedute psicoterapiche;</li>
           <li>• Traduzione di documentazione, terapie e visite mediche specialistiche;</li>
-          <li>• Evacuazione da Leopoli e organizzazione dell'accoglienza di nuclei familiari in Italia e paesi UE, Lviv UA;</li>
+          <li>• Evacuazione da Leopoli e organizzazione dell'accoglienza in Italia;</li>
           <li>• Consegna medicinali del Banco Farmaceutico agli ospedali del territorio ucraino, Lviv e Kyiv, UA;</li>
           <li>• Organizzazione di attività;</li>
-          <li>• Traduzione di sedute di psicoterapia. </li>
         </ul>
       </StyledArticle>
       {/*INTERPRETARIATO*/}
