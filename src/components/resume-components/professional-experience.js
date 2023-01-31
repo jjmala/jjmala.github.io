@@ -34,6 +34,7 @@ export default function ProfessionalExperience() {
           <li>• Evacuazione da Leopoli e organizzazione di accoglienza in Italia di nuclei familiari, Lviv UA;</li>
           <li>• Consegna medicinali del Banco Farmaceutico agli ospedali del territorio ucraino, Lviv e Kyiv, UA;</li>
           <li>• Organizzazione di attività;</li>
+          <li>• Traduzione di sedute di psicoterapia. </li>
         </ul>
       </StyledArticle>
       {/*INTERPRETARIATO*/}
@@ -43,38 +44,37 @@ export default function ProfessionalExperience() {
         </h4>
         <p className="subtitle is-5 is-uppercase mb-1">Aziende e Privati</p>
         <ul>
+          <li> 
+            • Mediazione per OR.S.A. Cooperativa Sociale Nov 2022 - Mar 2023
+          </li>
           <li>
             • Interprete in simultanea. Nuova Collaborazione, Torino. Giu – Set 2022, referente Maurizia Savia:
             +393516466695;
           </li>
           <li>
-            • Mediatrice culturale e interprete. Casa Giglio Onlus, Torino. Apr 2022 - in corso, referente Giuseppina
-            Sgambellone: +393486576028;
+            • Mediatrice culturale e interprete. Casa Giglio Onlus, Torino. Apr 2022 - in corso;
           </li>
           <li>
             • Traduttrice di cartelle cliniche e interprete durante visite mediche specialistiche in ospedali, lingue
-            RU, UA, EN, IT. Fondazione Paideia, Torino. Apr 2022 – Ott 2022, referente Fabrizio Serra: +393488712999;
+            RU, UA, EN, IT. Fondazione Paideia, Torino. Apr 2022 – Ott 2022;
           </li>
           <li>
-            • Interprete per cooperativa sociale Pausa Cafe` a Przemysl in Polonia. Mar 2022, referente Marco Ferrero:
-            +393355905537;
+            • Interprete per cooperativa sociale Pausa Cafe` a Przemysl in Polonia. Mar 2022;
           </li>
           <li>
-            • Traduzioni di documentazione EN-IT per privati ai fini di asseverazione. 2019 referente: Jack Coulton:
-            +393891770082;
+            • Traduzioni di documentazione EN>IT per privati ai fini di asseverazione. 2019;
           </li>
           <li>
             • Interprete e Traduttrice RU-UA-IT per l'azienda di giocattoli ucraina UGEARS e il Centro Giochi Educativo
             di Torino. 2016;
           </li>
           <li>
-            • Interprete simultanea RU-UA-IT a chiamata presso buyers per l'azienda di vestiario Space 2000 spa. 2015,
-            referente Daniele Pigato;
+            • Interprete simultanea RU-UA-IT a chiamata presso buyers per l'azienda di vestiario Space 2000 spa. 2015;
           </li>
           <li>
-            • Hostess di lingua tedesca e inglese per TUR IN TUR snc. 2014 referente: Mirella Nicola +393338290669;
+            • Hostess di lingua tedesca e inglese per TUR IN TUR snc. 2014;
           </li>
-          <li>• Insegnante di italiano per privati di madrelingua inglese e russa. 2013-2016</li>
+          <li>• Impartizione di lezioni private di italiano in presenza in Australia e a distanza in Russia. 2013-2016</li>
         </ul>
       </StyledArticle>
       {/*Squid Frame*/}
@@ -102,8 +102,7 @@ export default function ProfessionalExperience() {
           <li>• Accoglienza, traduzione documenti e raccolta delle storie personali dei rifugiati;</li>
           <li>• Traduzione visite mediche e profilassi sanitaria;</li>
           <li>
-            • Mediazione culturale presso l'Ospedale San Giovanni Bosco con una paziente ucraina anziana affetta da
-            Covid.
+            • Mediazione culturale presso l'Ospedale San Giovanni Bosco di Torino.
           </li>
         </ul>
       </StyledArticle>
