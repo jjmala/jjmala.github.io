@@ -28,10 +28,11 @@ export default function ProfessionalExperience() {
           </small>
         </p>
         <ul>
+          <li>• Traduzioni al centro di aiuti umanitari Tesco a Przemysl, PL;</li>
           <li>• Punto di contatto per i rifugiati;</li>
-          <li>• Mediazione culturale;</li>
+          <li>• Mediazione culturale e supporto psicologico;</li>
           <li>• Traduzione di documentazione, terapie e visite mediche specialistiche;</li>
-          <li>• Evacuazione da Leopoli e organizzazione di accoglienza in Italia di nuclei familiari, Lviv UA;</li>
+          <li>• Evacuazione da Leopoli e organizzazione dell'accoglienza di nuclei familiari in Italia e paesi UE, Lviv UA;</li>
           <li>• Consegna medicinali del Banco Farmaceutico agli ospedali del territorio ucraino, Lviv e Kyiv, UA;</li>
           <li>• Organizzazione di attività;</li>
           <li>• Traduzione di sedute di psicoterapia. </li>
@@ -45,36 +46,35 @@ export default function ProfessionalExperience() {
         <p className="subtitle is-5 is-uppercase mb-1">Aziende e Privati</p>
         <ul>
           <li> 
-            • Mediazione per OR.S.A. Cooperativa Sociale Nov 2022 - Mar 2023
+            • Mediazione per OR.S.A. Cooperativa Sociale, Torino. Nov 2022 - Mar 2023;
+          <li>
+            • Mediazione culturale e interpretariato. Casa Giglio Onlus, Torino. Apr 2022 - Dic 2022;
+          </li>
           </li>
           <li>
-            • Interprete in simultanea. Nuova Collaborazione, Torino. Giu – Set 2022, referente Maurizia Savia:
-            +393516466695;
-          </li>
-          <li>
-            • Mediatrice culturale e interprete. Casa Giglio Onlus, Torino. Apr 2022 - in corso;
+            • Interpretariato in simultanea. Nuova Collaborazione, Torino. Giu – Set 2022;
           </li>
           <li>
             • Traduttrice di cartelle cliniche e interprete durante visite mediche specialistiche in ospedali, lingue
             RU, UA, EN, IT. Fondazione Paideia, Torino. Apr 2022 – Ott 2022;
           </li>
           <li>
-            • Interprete per cooperativa sociale Pausa Cafe` a Przemysl in Polonia. Mar 2022;
+            • Interpretariato per cooperativa sociale Pausa Cafe` a Przemysl in Polonia. Mar 2022;
           </li>
           <li>
-            • Traduzioni di documentazione EN>IT per privati ai fini di asseverazione. 2019;
+            • Traduzione di documenti EN>IT per privati ai fini di asseverazione. 2019;
           </li>
           <li>
-            • Interprete e Traduttrice RU-UA-IT per l'azienda di giocattoli ucraina UGEARS e il Centro Giochi Educativo
-            di Torino. 2016;
+            • Interpretariato e Traduzione RU-UA-IT per azienda di giocattoli ucraina UGEARS e il Centro Giochi Educativo
+            di Torino. Traduzione di istruzioni d'uso di giocattoli e mediazione durante le trattative tra le due aziende. 2016;
           </li>
           <li>
-            • Interprete simultanea RU-UA-IT a chiamata presso buyers per l'azienda di vestiario Space 2000 spa. 2015;
+            • Interprete simultanea RU-UA-IT presso buyers per azienda di vestiario Space 2000 spa. Milano, ITA 2015;
           </li>
           <li>
-            • Hostess di lingua tedesca e inglese per TUR IN TUR snc. 2014;
+            • Hostess di lingua tedesca e inglese per TUR IN TUR snc. nelle Langhe, ITA  2014;
           </li>
-          <li>• Impartizione di lezioni private di italiano in presenza in Australia e a distanza in Russia. 2013-2016</li>
+          <li>• Impartizione di lezioni private di italiano in presenza in Australia e a distanza in Russia. 2012-2016</li>
         </ul>
       </StyledArticle>
       {/*Squid Frame*/}
