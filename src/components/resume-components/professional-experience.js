@@ -55,7 +55,7 @@ export default function ProfessionalExperience() {
           <li>• Traduzione di documentazione, terapie e visite mediche specialistiche;</li>
           <li>• Evacuazione da Leopoli e organizzazione dell'accoglienza in Italia;</li>
           <li>• Consegna medicinali del Banco Farmaceutico agli ospedali del territorio ucraino, Lviv e Kyiv, UA;</li>
-          <li>• Organizzazione di attività;</li>
+          <li>• Organizzazione di attività.</li>
         </ul>
       </StyledArticle>
       {/*INTERPRETARIATO*/}
@@ -169,7 +169,7 @@ export default function ProfessionalExperience() {
           {' :: '}
           <small className='has-text-weight-light'>Torino, IT</small>
         </p>
-      </StyledArticle>;
+      </StyledArticle>
       {/*Servizio per Adolescenti*/
       }
       <StyledArticle>
