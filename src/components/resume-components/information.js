@@ -32,7 +32,7 @@ export default function Information() {
           <br />
           Linkedin&nbsp;
           <a href={social.linkedin} rel="noreferrer" target="_blank">
-            <strong>{isPrint ? social.linkedin : 'Link'}</strong>
+            <strong>Link</strong>
           </a>
         </p>
       </article>
