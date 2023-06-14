@@ -3,7 +3,7 @@ import useMetadata from '../../hooks/useMetadata';
 import useResponsive from '../../hooks/useResponsive';
 
 export default function Information() {
-  const { contacts } = useMetadata();
+  const { contacts, social } = useMetadata();
   const { isPrint } = useResponsive();
   return (
     <section className="section">
@@ -28,6 +28,11 @@ export default function Information() {
           Progetto&nbsp;
           <a href={contacts.project} rel="noreferrer" target="_blank">
             <strong>{isPrint ? contacts.project : 'Malingering'}</strong>
+          </a>
+          <br />
+          Linkedin&nbsp;
+          <a href={social.linkedin} rel="noreferrer" target="_blank">
+            <strong>{isPrint ? social.linkedin : 'Link'}</strong>
           </a>
         </p>
       </article>

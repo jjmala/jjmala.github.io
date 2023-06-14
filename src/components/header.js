@@ -61,7 +61,7 @@ const Header = () => {
         <a href={social.github} aria-label="github" rel="noreferrer" target="_blank">
           <img alt="github" className="image" src="https://img.shields.io/badge/-Github-black?logo=github" />
         </a>
-        <a className="print-hidden" href="/resume.pdf" download={`jjmala-resume-${new Date().getFullYear()}.pdf`} aria-label="pdf" rel="noreferrer" target="_blank">
+        <a className="print-hidden" href="/resume.pdf" download={`jacquelinemala-resume-${new Date().getFullYear()}.pdf`} aria-label="pdf" rel="noreferrer" target="_blank">
           <img alt="pdf" className="image" src="https://img.shields.io/badge/Download-PDF-green" />
         </a>
       </div>
