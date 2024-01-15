@@ -47,10 +47,10 @@ const IndexPage = () => {
         <Layout>
           <Information />
           <Languages />
-          <TechnicalSkills />
           <ProfessionalExperience />
           <Education />
           <EducationExperience />
+          <TechnicalSkills />
           <Conferences />
         </Layout>
       </StyledContainer>
