@@ -96,10 +96,10 @@ export default function ProfessionalExperience() {
         <ul>
           <li>
             • Mediazione per OR.S.A. Cooperativa Sociale. Nov 2022 - in corso;
+        </li>
             <li>
               • Mediazione culturale e interpretariato. Casa Giglio Onlus, Torino. Apr 2022 - Dic 2022;
             </li>
-          </li>
           <li>
             • Interpretariato in simultanea. Ebincolf, Torino. Giu – Set 2022;
           </li>
