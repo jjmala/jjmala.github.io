@@ -70,9 +70,9 @@ const IndexPage = () => {
           <div className="column is-4">
             <Information />
             <Languages />
-            <TechnicalSkills />
             <Education />
             <EducationExperience />
+          <TechnicalSkills />
           </div>
         </div>
       </Layout>
