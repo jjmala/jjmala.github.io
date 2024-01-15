@@ -16,8 +16,8 @@ export default function ProfessionalExperience() {
         <h4 className='title is-4 is-uppercase'>
          TIROCINIO di SPECIALIZZAZIONE in PSICOTERAPIA:: <small className='has-text-weight-light'> 450 ore - corso</small>
         </h4>
-                <p className='subtitle is-5 is-uppercase mb-1'>PSICOLOGIA CLINICA</p>
-        <p className='subtitle is-5 is-uppercase mb-1'>Reparto di Oncolgia di Molinette e Sant'Anna, A.O.U. Citta della Salute e della Scienza di Torino </p>
+                <p className='subtitle is-5 is-uppercase mb-1'>PSICOLOGIA CLINICA, Reparto di Oncologia dei P.O. Molinette e Sant'Anna</p>
+        <p className='subtitle is-5 is-uppercase mb-1'> A.O.U. Citta della Salute e della Scienza di Torino </p>
         <ul>
           <li>
             • Valutazione psicodiagnostica;
@@ -129,7 +129,7 @@ export default function ProfessionalExperience() {
       {/*SEMINARI*/}
       <StyledArticle>
         <h4 className='title is-4 is-uppercase'>
-          RELATRICE durante SEMINARIO {' :: '} <small className='has-text-weight-light'></small>
+          RELATRICE {' :: '} <small className='has-text-weight-light'></small>
         </h4>
         <p className='subtitle is-5 is-uppercase mb-1'></p>
         <ul>
