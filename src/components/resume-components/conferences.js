@@ -4,6 +4,21 @@ export default function EducationSide() {
   return (
     <section className="section pagebreak">
       <h2 className="title is-2 is-size-3-mobile">Seminari, laboratori e convegni</h2>
+     <article>
+        <h4 className="title is-4 is-uppercase">CORPO, CURA E CREATIVITA'
+IL TRATTAMENTO CORALE DEL TRAUMA. DIALOGHI TRA GRUPPOANALISI, TERAPIE ESPRESSIVE E A MEDIAZIONE CORPOREA
+          {' | '}
+          <small>
+            <em>Corso ECM Residenziale</em>
+          </small>
+          {' :: '}
+          <small className="has-text-weight-light">24.09.2022</small>
+        </h4>
+        <p className="subtitle is-5 is-uppercase mb-1">
+          Apragi Gruppoanalisi e Coirag
+          {' :: '}
+          <small className="has-text-weight-light">Torino, Italia</small>
+        </p>
       <article>
         <h4 className="title is-4 is-uppercase">
           Terapia di rete e lavoro multifamiliare con pazienti psichiatrici
