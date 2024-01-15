@@ -35,7 +35,7 @@ export default function ProfessionalExperience() {
             • Attività di ricerca;
           </li>
             <li>
-            • Nel corso del tirocinio ho avuto modo di seguire diversi pazienti oncologici, i loro caregivers e pazienti che stavano affrontando il lutto in seguito alla perdita di persone per malattia neoplastica.
+            • Nel corso del tirocinio ho avuto modo di seguire diversi pazienti oncologici, i loro caregivers e pazienti che stavano affrontando il lutto in seguito alla perdita di cari per malattia neoplastica.
           </li>
         </ul>
       </StyledArticle>
