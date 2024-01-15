@@ -17,22 +17,25 @@ export default function ProfessionalExperience() {
          TIROCINIO di SPECIALIZZAZIONE in PSICOTERAPIA:: <small className='has-text-weight-light'> 450 ore - corso</small>
         </h4>
                 <p className='subtitle is-5 is-uppercase mb-1'>PSICOLOGIA CLINICA, Reparto di Oncologia dei P.O. Molinette e Sant'Anna</p>
-        <p className='subtitle is-5 is-uppercase mb-1'> A.O.U. Citta della Salute e della Scienza di Torino </p>
+        <p className='subtitle is-5 is-uppercase mb-1'> A.O.U. Città della Salute e della Scienza di Torino </p>
         <ul>
           <li>
             • Valutazione psicodiagnostica;
           </li>
              <li>
-            • Colloqui psicologici clinici individuali;
+            • Conduzioni di colloqui psicologici clinici individuali;
           </li>
               <li>
             • Interventi psicoeducativi;
           </li>
           <li>
-            • Tecniche di rilassamento individuali e di gruppo;
+            • Applicaziomne di tecniche di rilassamento individuali e di gruppo;
           </li>
           <li>
-            • Attività di ricerca scientifica.
+            • Attività di ricerca;
+          </li>
+            <li>
+            • Nel corso del tirocinio ho avuto modo di seguire diversi pazienti oncologici, i loro caregivers e pazienti che stavano affrontando il lutto in seguito alla perdita di persone per malattia neoplastica.
           </li>
         </ul>
       </StyledArticle>
