@@ -47,13 +47,13 @@ export default function ProfessionalExperience() {
         <p className='subtitle is-5 is-uppercase mb-1'>Giuliano Accomazzi Coop.</p>
         <ul>
           <li>
-            • Interviste agli sfollati di guerra presenti sul territorio;
+            • Interviste a sfollati di guerra;
           </li>
           <li>
-            • Traduzione e creazione di sottotitoli in videointerviste proiettate nella metro del Gruppo Torinese Trasporti;
+            • Traduzione e creazione di sottotitoli in video interviste, in seguito proiettate nella metro del Gruppo Torinese Trasporti;
           </li>
           <li>
-            • Eventi musicali Suoni e Immagini il 21 e 28 gennaio 2023 con sostegno di Mir Now, Fondazione San Paolo,
+            • Eventi musicali Suoni e Immagini il 21 e 28 gennaio 2023 con il supporto di enti e associati - Mir Now, Fondazione San Paolo,
             Fondazione Cantabile, Corale Polifonica Sommariva Bosco, Consolato Onorario Città di Torino e GTT.;
           </li>
         </ul>
@@ -76,14 +76,14 @@ export default function ProfessionalExperience() {
           </small>
         </p>
         <ul>
-          <li>• Traduzioni e sostegno psicologico al centro di aiuti umanitari Tesco a Przemysl, PL;</li>
-          <li>• Punto di contatto per i rifugiati;</li>
+          <li>• Traduzioni e sostegno psicologico presso il centro di aiuti umanitari Tesco a Przemysl in Polonia;</li>
+          <li>• Gestione e supporto per rifugiati;</li>
           <li>• Colloqui individuali di sostegno psicologico e traduzione di sedute psicoterapiche a Torino, ITA;</li>
           <li>• Mediazione culturale e risoluzione di conflitti;</li>
-          <li>• Traduzione di documentazione, terapie e visite mediche specialistiche;</li>
-          <li>• Evacuazione da Leopoli e organizzazione dell'accoglienza in Italia;</li>
-          <li>• Consegna medicinali del Banco Farmaceutico agli ospedali del territorio ucraino, Lviv e Kyiv, UA;</li>
-          <li>• Organizzazione di attività.</li>
+          <li>• Traduzione di documentazioni mediche e organizzazione dell'assistenza sanitaria;</li>
+          <li>• Evacuazione e accoglienza di rifugiati in Italia;</li>
+          <li>• Consegna medicinali del Banco Farmaceutico agli ospedali in Ucraina;</li>
+          <li>• Organizzazione di attività per rigfugiati.</li>
         </ul>
       </StyledArticle>
       {/*INTERPRETARIATO*/}
@@ -92,7 +92,7 @@ export default function ProfessionalExperience() {
           Interpretariato, Traduzione e Mediazione :: <small className='has-text-weight-light'>dal 2011 - in
           corso</small>
         </h4>
-        <p className='subtitle is-5 is-uppercase mb-1'>Aziende e Privati</p>
+        <p className='subtitle is-5 is-uppercase mb-1'>Freelance per Aziende e Privati</p>
         <ul>
           <li>
             • Mediazione per OR.S.A. Cooperativa Sociale. Nov 2022 - in corso;
@@ -123,7 +123,7 @@ export default function ProfessionalExperience() {
             • Interprete simultanea RU-UA-IT presso buyers per azienda di vestiario Space 2000 spa. Milano, ITA. 2015;
           </li>
           <li>
-            • Hostess di lingua tedesca e inglese per TUR IN TUR snc. nelle Langhe, ITA. 2014;
+            • Hostess di lingua tedesca e inglese per TUR IN TUR snc. Langhe, ITA. 2014;
           </li>
           <li>• Impartizione di lezioni private di italiano in presenza in Australia e a distanza in Russia. 2012-2016
           </li>
@@ -132,7 +132,7 @@ export default function ProfessionalExperience() {
       {/*SEMINARI*/}
       <StyledArticle>
         <h4 className='title is-4 is-uppercase'>
-          RELATRICE {' :: '} <small className='has-text-weight-light'></small>
+          RELATRICE SU TEMATICHE PSICOLOGICHE E SOCIOLOGICHE:: {' :: '} <small className='has-text-weight-light'>2021 e 2022</small> <small className='has-text-weight-light'></small>
         </h4>
         <p className='subtitle is-5 is-uppercase mb-1'></p>
         <ul>
