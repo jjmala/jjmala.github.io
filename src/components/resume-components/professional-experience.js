@@ -54,7 +54,7 @@ export default function ProfessionalExperience() {
           </li>
           <li>
             • Eventi musicali Suoni e Immagini il 21 e 28 gennaio 2023 con il supporto di enti e associati - Mir Now, Fondazione San Paolo,
-            Fondazione Cantabile, Corale Polifonica Sommariva Bosco, Consolato Onorario Città di Torino e GTT.;
+            Fondazione Cantabile, Corale Polifonica Sommariva Bosco, Consolato Onorario Città di Torino e GTT.
           </li>
         </ul>
       </StyledArticle>
@@ -125,7 +125,8 @@ export default function ProfessionalExperience() {
           <li>
             • Hostess di lingua tedesca e inglese per TUR IN TUR snc. Langhe, ITA. 2014;
           </li>
-          <li>• Impartizione di lezioni private di italiano in presenza in Australia e a distanza in Russia. 2012-2016
+          <li>
+          • Impartizione di lezioni private di italiano in presenza in Australia e a distanza in Russia. 2012-2016.
           </li>
         </ul>
       </StyledArticle>
@@ -139,7 +140,7 @@ export default function ProfessionalExperience() {
           <li>• Seminario "Squid Frame: Effetto Lucifero e serialità televisiva". Dipartimento di Scienze Sociali
             Università degli Studi di Napoli Federico II. Giu 2022;
           </li>
-          <li>• Seminario ”Il Sistema degli Oggetti”. Accademia delle Belle Arti di Napoli. Giu 2021 ;</li>
+          <li>• Seminario ”Il Sistema degli Oggetti”. Accademia delle Belle Arti di Napoli. Giu 2021.</li>
         </ul>
       </StyledArticle>
       {/*Protezione Civile*/
@@ -190,8 +191,7 @@ export default function ProfessionalExperience() {
           <small className='has-text-weight-light'>Torino, IT</small>
         </p>
       </StyledArticle>
-      {/*Servizio per Adolescenti*/
-      }
+      {/*Servizio per Adolescenti*/}
       <StyledArticle>
         <h4 className='title is-4 is-uppercase'>
           Servizio per Adolescenti con difficoltà :: <small className='has-text-weight-light'>Apr – Set 2017</small>
