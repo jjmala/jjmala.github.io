@@ -29,7 +29,7 @@ export default function ProfessionalExperience() {
             • Interventi psicoeducativi;
           </li>
           <li>
-            • Applicaziomne di tecniche di rilassamento individuali e di gruppo;
+            • Applicazione di tecniche di rilassamento individuali e di gruppo;
           </li>
           <li>
             • Attività di ricerca;
