@@ -9,23 +9,23 @@ export default function Education() {
     <section className="section">
       <h2 className="title is-2 is-size-3-mobile">Formazione</h2>
       <article>
-    <p> <strong>Master di II livello | Aiutare i minori in difficoltà</strong>
+    <p> <strong>Master di II livello | Aiutare i Minori in Difficoltà</strong>
           {" :: "}
           <small className="has-text-weight-light">2023</small>
-          <br />
-          <small>Istituto di Psicoterapia, CSTFR EMMECI s.c. Torino, Italia</small>
-        </p>
-        <p>
-          <strong>Master di II livello</strong>
-          {' :: '}
-          <small className="has-text-weight-light">2022</small>
-          <br />
-          La relazione che cura
           <br />
           <small>Istituto EMMECI s.c. Torino, Italia</small>
         </p>
         <p>
-          <strong>Specializzazione in psicoterapia relazionale e sistemica</strong>
+          <strong>Master di II livello| La Relazione che Cura</strong>
+          {' :: '}
+          <small className="has-text-weight-light">2022</small>
+          <br />
+    
+          <br />
+          <small>Istituto EMMECI s.c. Torino, Italia</small>
+        </p>
+        <p>
+          <strong>Specializzazione in Psicoterapia Relazionale e Sistemica</strong>
           {' :: '}
           <small className="has-text-weight-light">2022 – in corso</small>
           <br />
