@@ -83,7 +83,7 @@ export default function ProfessionalExperience() {
           <li>• Traduzione di documentazioni mediche e organizzazione dell'assistenza sanitaria;</li>
           <li>• Evacuazione e accoglienza di rifugiati in Italia;</li>
           <li>• Consegna medicinali del Banco Farmaceutico agli ospedali in Ucraina;</li>
-          <li>• Organizzazione di attività per rigfugiati.</li>
+          <li>• Organizzazione di attività.</li>
         </ul>
       </StyledArticle>
       {/*INTERPRETARIATO*/}
