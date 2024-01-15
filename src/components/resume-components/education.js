@@ -9,10 +9,16 @@ export default function Education() {
     <section className="section">
       <h2 className="title is-2 is-size-3-mobile">Formazione</h2>
       <article>
+    <p> <strong>Master di II livello | Aiutare i minori in difficoltà</strong>
+          {" :: "}
+          <small className="has-text-weight-light">2023</small>
+          <br />
+          <small>Istituto di Psicoterapia, CSTFR EMMECI s.c. Torino, Italia</small>
+        </p>
         <p>
           <strong>Master di II livello</strong>
           {' :: '}
-          <small className="has-text-weight-light">2022 - in corso</small>
+          <small className="has-text-weight-light">2022</small>
           <br />
           La relazione che cura
           <br />
