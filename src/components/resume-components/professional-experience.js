@@ -11,6 +11,24 @@ export default function ProfessionalExperience() {
   return (
     <section className='section'>
       <h2 className='title is-2 is-size-3-mobile'>Esperienze professionali</h2>
+  {/*TIROCINIO di SPECIALIZZAZIONE in PSICOTERAPIA */}
+      <StyledArticle>
+        <h4 className='title is-4 is-uppercase'>
+          PSICOLOGIA CLINICA :: <small className='has-text-weight-light'> 450 ore - corso</small>
+        </h4>
+        <p className='subtitle is-5 is-uppercase mb-1'>Presidi Ospedialieri Molinette e Sant'Anna, A.O.U. Citta della Salute e della Scienza di Torino </p>
+        <ul>
+          <li>
+            • Colloqui psicologici individuali a persone con neoplasia, i loro caregivers e a persone che affrontano il lutto;
+          </li>
+          <li>
+            • Training Autogeno;
+          </li>
+          <li>
+            • Attività di ricerca;
+          </li>
+        </ul>
+      </StyledArticle>
       {/*PROGETTO SUONI E IMMAGINI PER L'UCRAINA*/}
       <StyledArticle>
         <h4 className='title is-4 is-uppercase'>
@@ -22,12 +40,11 @@ export default function ProfessionalExperience() {
             • Interviste agli sfollati di guerra presenti sul territorio;
           </li>
           <li>
-            • Traduzione e creazione di sottotitoli in videointerviste;
+            • Traduzione e creazione di sottotitoli in videointerviste proiettate nella metro del Gruppo Torinese Trasporti;
           </li>
           <li>
             • Eventi musicali Suoni e Immagini il 21 e 28 gennaio 2023 con sostegno di Mir Now, Fondazione San Paolo,
-            Fondazione Cantabile, Corale Polifonica Sommariva Bosco, Consolato Onorario Città di Torino e Gruppo
-            Torinese Trasporti ;
+            Fondazione Cantabile, Corale Polifonica Sommariva Bosco, Consolato Onorario Città di Torino e GTT.;
           </li>
         </ul>
       </StyledArticle>
@@ -49,9 +66,10 @@ export default function ProfessionalExperience() {
           </small>
         </p>
         <ul>
-          <li>• Traduzioni al centro di aiuti umanitari Tesco a Przemysl, PL;</li>
+          <li>• Traduzioni e sostegno psicologico al centro di aiuti umanitari Tesco a Przemysl, PL;</li>
           <li>• Punto di contatto per i rifugiati;</li>
-          <li>• Mediazione culturale, supporto psicologico e traduzione di sedute psicoterapiche;</li>
+          <li>• Colloqui individuali di sostegno psicologico e traduzione di sedute psicoterapiche a Torino, ITA;</li>
+          <li>• Mediazione culturale e risoluzione di conflitti;</li>
           <li>• Traduzione di documentazione, terapie e visite mediche specialistiche;</li>
           <li>• Evacuazione da Leopoli e organizzazione dell'accoglienza in Italia;</li>
           <li>• Consegna medicinali del Banco Farmaceutico agli ospedali del territorio ucraino, Lviv e Kyiv, UA;</li>
@@ -67,7 +85,7 @@ export default function ProfessionalExperience() {
         <p className='subtitle is-5 is-uppercase mb-1'>Aziende e Privati</p>
         <ul>
           <li>
-            • Mediazione per OR.S.A. Cooperativa Sociale. Nov 2022 - Mar 2023;
+            • Mediazione per OR.S.A. Cooperativa Sociale. Nov 2022 - in corso;
             <li>
               • Mediazione culturale e interpretariato. Casa Giglio Onlus, Torino. Apr 2022 - Dic 2022;
             </li>
