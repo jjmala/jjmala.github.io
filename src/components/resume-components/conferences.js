@@ -54,6 +54,22 @@ IL TRATTAMENTO CORALE DEL TRAUMA. DIALOGHI TRA GRUPPOANALISI, TERAPIE ESPRESSIVE
       </article> 
                <article>
         <h4 className="title is-4 is-uppercase">
+        Integrazione delle cure e innovazioni in Psico-Oncologia
+          {' | '}
+          <small>
+            <em>Convegno</em>
+          </small>
+          {' :: '}
+          <small className="has-text-weight-light">23.09.2023</small>
+        </h4>
+        <p className="subtitle is-5 is-uppercase mb-1">
+         P.O. COTTOLENGO | SIPO
+          {' :: '}
+          <small className="has-text-weight-light">Torino, Italia</small>
+        </p>
+      </article> 
+               <article>
+        <h4 className="title is-4 is-uppercase">
         La terapia familiare e i disturbi di apprendimento
           {' | '}
           <small>
