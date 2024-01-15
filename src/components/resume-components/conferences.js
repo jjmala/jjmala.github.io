@@ -12,7 +12,7 @@ IL TRATTAMENTO CORALE DEL TRAUMA. DIALOGHI TRA GRUPPOANALISI, TERAPIE ESPRESSIVE
             <em>Corso ECM Residenziale</em>
           </small>
           {' :: '}
-          <small className="has-text-weight-light">24.09.2022</small>
+          <small className="has-text-weight-light">20.01.2024</small>
         </h4>
         <p className="subtitle is-5 is-uppercase mb-1">
           Apragi Gruppoanalisi e Coirag
