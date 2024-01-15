@@ -19,6 +19,103 @@ IL TRATTAMENTO CORALE DEL TRAUMA. DIALOGHI TRA GRUPPOANALISI, TERAPIE ESPRESSIVE
           {' :: '}
           <small className="has-text-weight-light">Torino, Italia</small>
         </p>
+                 </article> 
+             <article>
+        <h4 className="title is-4 is-uppercase">
+          Connessioni emotive e costruzione dell'identità di gruppo
+          {' | '}
+          <small>
+            <em>Seminario</em>
+          </small>
+          {' :: '}
+          <small className="has-text-weight-light">18.11.2023</small>
+        </h4>
+        <p className="subtitle is-5 is-uppercase mb-1">
+          Istituto EMMECI s.c. | dr Zarmati C.
+          {' :: '}
+          <small className="has-text-weight-light">Torino, Italia</small>
+        </p>
+      </article> 
+             <article>
+        <h4 className="title is-4 is-uppercase">
+         Il ritiro sociale negli adolescenti. La solitudine di una generazione iperconnessa
+          {' | '}
+          <small>
+            <em>Seminario</em>
+          </small>
+          {' :: '}
+          <small className="has-text-weight-light">28.10.2023</small>
+        </h4>
+        <p className="subtitle is-5 is-uppercase mb-1">
+          Istituto EMMECI s.c. | dr Lancini M.
+          {' :: '}
+          <small className="has-text-weight-light">Torino, Italia</small>
+        </p>
+      </article> 
+               <article>
+        <h4 className="title is-4 is-uppercase">
+        La terapia familiare e i disturbi di apprendimento
+          {' | '}
+          <small>
+            <em>Seminario</em>
+          </small>
+          {' :: '}
+          <small className="has-text-weight-light">17.06.2023</small>
+        </h4>
+        <p className="subtitle is-5 is-uppercase mb-1">
+          Istituto EMMECI s.c. | dott.ssa Sabatini R.
+          {' :: '}
+          <small className="has-text-weight-light">Torino, Italia</small>
+        </p>
+      </article> 
+             <article>
+        <h4 className="title is-4 is-uppercase">
+   L'abuso sessuale in famiglia quando chi abusa è un fratello
+          {' | '}
+          <small>
+            <em>Seminario</em>
+          </small>
+          {' :: '}
+          <small className="has-text-weight-light">22.04.2023</small>
+        </h4>
+        <p className="subtitle is-5 is-uppercase mb-1">
+          Istituto EMMECI s.c. | dr. J.P. Mugnier
+          {' :: '}
+          <small className="has-text-weight-light">Torino, Italia</small>
+        </p>
+      </article> 
+                    <article>
+        <h4 className="title is-4 is-uppercase">
+       Il viaggio nell'oceano borderline: l'esperienza emozionale del terapeuta
+          {' | '}
+          <small>
+            <em>Seminario</em>
+          </small>
+          {' :: '}
+          <small className="has-text-weight-light">18.03.2023</small>
+        </h4>
+        <p className="subtitle is-5 is-uppercase mb-1">
+          Istituto EMMECI s.c. | dr. L. Cancrini
+          {' :: '}
+          <small className="has-text-weight-light">Torino, Italia</small>
+        </p>
+      </article> 
+                 <article>
+        <h4 className="title is-4 is-uppercase">
+        La famiglia e la coppia del paziente oncologico
+          {' | '}
+          <small>
+            <em>Seminario</em>
+          </small>
+          {' :: '}
+          <small className="has-text-weight-light">05.11.2022</small>
+        </h4>
+        <p className="subtitle is-5 is-uppercase mb-1">
+          Istituto EMMECI s.c. | dott.ssa Galli M.
+          {' :: '}
+          <small className="has-text-weight-light">Torino, Italia</small>
+        </p>
+      </article> 
       <article>
         <h4 className="title is-4 is-uppercase">
           Terapia di rete e lavoro multifamiliare con pazienti psichiatrici
