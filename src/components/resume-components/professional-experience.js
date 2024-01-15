@@ -14,7 +14,7 @@ export default function ProfessionalExperience() {
   {/*TIROCINIO di SPECIALIZZAZIONE in PSICOTERAPIA */}
       <StyledArticle>
         <h4 className='title is-4 is-uppercase'>
-         TIROCINIO di SPECIALIZZAZIONE in PSICOTERAPIA:: <small className='has-text-weight-light'> 450 ore - corso</small>
+         TIROCINIO di SPECIALIZZAZIONE in PSICOTERAPIA :: <small className='has-text-weight-light'> 450 ore - corso</small>
         </h4>
                 <p className='subtitle is-5 is-uppercase mb-1'>PSICOLOGIA CLINICA, Reparto di Oncologia dei P.O. Molinette e Sant'Anna</p>
         <p className='subtitle is-5 is-uppercase mb-1'> A.O.U. Città della Salute e della Scienza di Torino </p>
