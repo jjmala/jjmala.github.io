@@ -25,7 +25,7 @@ export default function Information() {
             <strong>{contacts.website}</strong>
           </a>
           <br />
-          Progetto&nbsp;
+          Ricerca&nbsp;
           <a href={contacts.project} rel="noreferrer" target="_blank">
             <strong>{isPrint ? contacts.project : 'Malingering'}</strong>
           </a>
