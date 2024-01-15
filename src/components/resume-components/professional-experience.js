@@ -14,18 +14,25 @@ export default function ProfessionalExperience() {
   {/*TIROCINIO di SPECIALIZZAZIONE in PSICOTERAPIA */}
       <StyledArticle>
         <h4 className='title is-4 is-uppercase'>
-          PSICOLOGIA CLINICA :: <small className='has-text-weight-light'> 450 ore - corso</small>
+         TIROCINIO di SPECIALIZZAZIONE in PSICOTERAPIA:: <small className='has-text-weight-light'> 450 ore - corso</small>
         </h4>
-        <p className='subtitle is-5 is-uppercase mb-1'>Presidi Ospedialieri Molinette e Sant'Anna, A.O.U. Citta della Salute e della Scienza di Torino </p>
+                <p className='subtitle is-5 is-uppercase mb-1'>PSICOLOGIA CLINICA</p>
+        <p className='subtitle is-5 is-uppercase mb-1'>Reparto di Oncolgia di Molinette e Sant'Anna, A.O.U. Citta della Salute e della Scienza di Torino </p>
         <ul>
           <li>
-            • Colloqui psicologici individuali a persone con neoplasia, i loro caregivers e a persone che affrontano il lutto;
+            • Valutazione psicodiagnostica;
+          </li>
+             <li>
+            • Colloqui psicologici clinici individuali;
+          </li>
+              <li>
+            • Interventi psicoeducativi;
           </li>
           <li>
-            • Training Autogeno;
+            • Tecniche di rilassamento individuali e di gruppo;
           </li>
           <li>
-            • Attività di ricerca;
+            • Attività di ricerca scientifica.
           </li>
         </ul>
       </StyledArticle>
