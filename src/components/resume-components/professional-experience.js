@@ -25,14 +25,8 @@ export default function ProfessionalExperience() {
              <li>
             • Conduzioni di colloqui psicologici clinici individuali;
           </li>
-              <li>
-            • Interventi psicoeducativi;
-          </li>
           <li>
             • Applicazione di tecniche di rilassamento individuali e di gruppo;
-          </li>
-          <li>
-            • Attività di ricerca;
           </li>
             <li>
             • Nel corso del tirocinio ho avuto modo di seguire diversi pazienti oncologici, i loro caregivers e pazienti che stavano affrontando il lutto in seguito alla perdita di cari per malattia neoplastica.
@@ -47,13 +41,13 @@ export default function ProfessionalExperience() {
         <p className='subtitle is-5 is-uppercase mb-1'>Giuliano Accomazzi Coop.</p>
         <ul>
           <li>
-            • Interviste a sfollati di guerra;
+            • Conduzione di interviste a sfollati di guerra;
           </li>
           <li>
-            • Traduzione e creazione di sottotitoli in video interviste, in seguito proiettate nella metro del Gruppo Torinese Trasporti;
+            • Traduzione e creazione di sottotitoli di video poriettati nella metro del Gruppo Torinese Trasporti;
           </li>
           <li>
-            • Eventi musicali Suoni e Immagini il 21 e 28 gennaio 2023 con il supporto di enti e associati - Mir Now, Fondazione San Paolo,
+            • Eventi musicali Suoni e Immagini il 21 e 28 gennaio 2023 con il supporto di enti e associati : Mir Now, Fondazione San Paolo,
             Fondazione Cantabile, Corale Polifonica Sommariva Bosco, Consolato Onorario Città di Torino e GTT.
           </li>
         </ul>
@@ -114,10 +108,8 @@ export default function ProfessionalExperience() {
             • Traduzione di documenti EN>IT per privati ai fini di asseverazione. 2019;
           </li>
           <li>
-            • Interpretariato e Traduzione RU-UA-IT per azienda di giocattoli ucraina UGEARS e il Centro Giochi
-            Educativo
-            di Torino. Traduzione di istruzioni d'uso di giocattoli e mediazione durante le trattative tra le due
-            aziende. 2016;
+            • Interpretariato e Traduzione durante trattative aziendali, istruzioni d'uso di giocattoli e siti internet per azienda di giocattoli ucraina UGEARS e il Centro Giochi
+            Educativo di Torino. 2016;
           </li>
           <li>
             • Interprete simultanea RU-UA-IT presso buyers per azienda di vestiario Space 2000 spa. Milano, ITA. 2015;
