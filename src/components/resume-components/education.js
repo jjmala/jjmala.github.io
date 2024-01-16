@@ -20,8 +20,6 @@ export default function Education() {
           {' :: '}
           <small className="has-text-weight-light">2022</small>
           <br />
-    
-          <br />
           <small>Istituto EMMECI s.c. Torino, Italia</small>
         </p>
         <p>
