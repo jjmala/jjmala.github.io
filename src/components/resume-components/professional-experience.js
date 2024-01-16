@@ -237,7 +237,7 @@ export default function ProfessionalExperience() {
         <p className='subtitle is-5 is-uppercase mb-1'>
           Bill and Toni's
           {' :: '}
-          <small className='has-text-weight-light'>Sydney, AU</small>
+          <small className='has-text-weight-light'>Sydney, AUSTRALIA</small>
         </p>
       </StyledArticle>
       {/*Opera Bar*/
@@ -249,7 +249,7 @@ export default function ProfessionalExperience() {
         <p className='subtitle is-5 is-uppercase mb-1'>
           Opera Bar
           {' :: '}
-          <small className='has-text-weight-light'>Sydney, AU</small>
+          <small className='has-text-weight-light'>Sydney, AUSTRALIA</small>
         </p>
       </StyledArticle>
       {/*Yellow House*/
@@ -261,7 +261,7 @@ export default function ProfessionalExperience() {
         <p className='subtitle is-5 is-uppercase mb-1'>
           Galleria d'arte Yellow House
           {' :: '}
-          <small className='has-text-weight-light'>Sydney, AU</small>
+          <small className='has-text-weight-light'>Sydney, AUSTRALIA</small>
         </p>
       </StyledArticle>
       {/*Assistente all'infanzia*/
