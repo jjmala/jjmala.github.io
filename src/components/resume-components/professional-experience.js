@@ -47,7 +47,7 @@ export default function ProfessionalExperience() {
             • Conduzione di interviste a sfollati di guerra;
           </li>
           <li>
-            • Traduzione e creazione di sottotitoli di video poriettati nella metro del Gruppo Torinese Trasporti;
+            • Traduzione e creazione di sottotitoli di video proiettati nella metro del Gruppo Torinese Trasporti;
           </li>
           <li>
             • Eventi musicali Suoni e Immagini il 21 e 28 gennaio 2023 con il supporto di enti e associati : Mir Now,
@@ -233,7 +233,7 @@ export default function ProfessionalExperience() {
       {/*Australia*/}
       <StyledArticle>
         <h4 className='title is-4 is-uppercase'>
-          Barmaid e caposala :: <small className='has-text-weight-light'>2012 – 2013</small>
+          Barmaid, Barback e Runner :: <small className='has-text-weight-light'>2012 – 2013</small>
         </h4>
         <p className='subtitle is-5 is-uppercase mb-1'>
           Opera Bar, Bill and Toni's, Galleria d'arte Yellow House
