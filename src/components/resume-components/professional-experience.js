@@ -63,26 +63,34 @@ export default function ProfessionalExperience() {
           <small className='has-text-weight-light'>da Marzo 2022 - in corso</small>
         </h4>
         <p className='subtitle is-5 is-uppercase mb-1'>
-          <a href='https://casagiglio.org/'>Coordinamento Mir Now!</a>
+          <a href='https://casagiglio.org/'>Coordinamento Mir Now!</a>, Ass. Medici per i Diritti Umani ETS, Casa Giglio
+          Onlus, Fondazione Paideia, Pausa Cafè Scs, Giuliano
+          Accomazzi Coop., Casa Ukraina, A.P.R.A.G.I Gruppoanalisi
           {' :: '}
           <small className='has-text-weight-light'>Torino, IT; Przemysl, PL; Lviv, UA; Kyiv, UA</small>
         </p>
-        <p>
-          <small>
-            associazione Medici per i Diritti Umani ETS, Casa Giglio Onlus, Fondazione Paideia, Pausa Cafè Scs, Giuliano Accomazzi Coop., ,
-            Casa Ukraina, A.P.R.A.G.I Gruppoanalisi, estero
-          </small>
-        </p>
+        {/*<p className='subtitle is-5 is-uppercase mb-1'>*/}
+        {/*  Ass. Medici per i Diritti Umani ETS, Casa Giglio Onlus, Fondazione Paideia, Pausa Cafè Scs, Giuliano*/}
+        {/*  Accomazzi Coop., Casa Ukraina, A.P.R.A.G.I Gruppoanalisi*/}
+        {/*  {' :: '}*/}
+        {/*  <small className='has-text-weight-light'>Torino, IT; Przemysl, PL; Lviv, UA; Kyiv, UA</small>*/}
+        {/*</p>*/}
         <ul>
           <li>• Traduzioni e sostegno psicologico presso il centro di aiuti umanitari Tesco a Przemysl in Polonia;</li>
           <li>• Gestione e supporto per rifugiati;</li>
-          <li>• Conduzione di colloqui individuali di sostegno psicologico e traduzione di sedute psicoterapiche in Italia;</li>
+          <li>• Conduzione di colloqui individuali di sostegno psicologico e traduzione di sedute psicoterapiche in
+            Italia;
+          </li>
           <li>• Mediazione culturale e risoluzione di conflitti;</li>
           <li>• Traduzione di documentazioni mediche e organizzazione dell'assistenza sanitaria;</li>
           <li>• Evacuazione e accoglienza di rifugiati in Italia;</li>
           <li>• Consegna medicinali del Banco Farmaceutico agli ospedali in Ucraina;</li>
-          <li>• Traduzione materiale formativo in ambito di pronto soccorso psicologico/psicotraumatologia per personale OSC locale;</li>
-          <li>• Mediazione presso gruppi di sostegno psicologico per i profughi con esiti traumatici (con utilizzo di tecniche EMDR)</li>
+          <li>• Traduzione materiale formativo in ambito di pronto soccorso psicologico/psicotraumatologia per personale
+            OSC locale;
+          </li>
+          <li>• Mediazione presso gruppi di sostegno psicologico per i profughi con esiti traumatici (con utilizzo di
+            tecniche EMDR)
+          </li>
           <li>• Organizzazioni di attività;</li>
         </ul>
       </StyledArticle>
@@ -243,7 +251,6 @@ export default function ProfessionalExperience() {
           <small className='has-text-weight-light'>Sydney, AUSTRALIA</small>
         </p>
       </StyledArticle>
-
 
 
       {/*/!*Bill and Toni's*!/*/}
