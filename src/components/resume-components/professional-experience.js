@@ -123,8 +123,7 @@ export default function ProfessionalExperience() {
           </li>
           <li>
             • Interpretariato e Traduzione durante trattative aziendali, istruzioni d'uso di giocattoli e siti internet
-            per azienda di giocattoli ucraina UGEARS e il Centro Giochi
-            Educativo di Torino. 2016;
+            per azienda di giocattoli ucraina UGEARS e il Centro Giochi Educativo di Torino. 2016;
           </li>
           <li>
             • Interprete simultanea RU-UA-IT presso buyers per azienda di vestiario Space 2000 spa. Milano, ITA. 2015;
@@ -133,7 +132,7 @@ export default function ProfessionalExperience() {
             • Hostess di lingua tedesca e inglese per TUR IN TUR snc. Langhe, ITA. 2014;
           </li>
           <li>
-            • Impartizione di lezioni private di italiano in presenza in Australia e a distanza in Russia. 2012-2016.
+            • Impartizione di lezioni private di italiano in presenza (Australia) e a distanza (Russia). 2012-2016.
           </li>
         </ul>
       </StyledArticle>
