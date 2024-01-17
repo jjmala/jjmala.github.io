@@ -28,7 +28,7 @@ export default function ProfessionalExperience() {
             • Conduzioni di colloqui psicologici clinici individuali;
           </li>
           <li>
-            • Applicazione di tecniche di rilassamento individuali e di gruppo;
+            • Training di applicazione di tecniche di rilassamento individuali e di gruppo;
           </li>
           <li>
             • Nel corso del tirocinio ho avuto modo di seguire diversi pazienti oncologici, i loro caregivers e pazienti
