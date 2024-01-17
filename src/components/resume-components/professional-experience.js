@@ -69,8 +69,8 @@ export default function ProfessionalExperience() {
         </p>
         <p>
           <small>
-            Casa Giglio Onlus, Fondazione Paideia, Pausa Cafè Scs, Giuliano Accomazzi Coop., Ufficio Pastorale Migranti,
-            Casa Ukraina, Estero
+            associazione Medici per i Diritti Umani ETS, Casa Giglio Onlus, Fondazione Paideia, Pausa Cafè Scs, Giuliano Accomazzi Coop., ,
+            Casa Ukraina, A.P.R.A.G.I Gruppoanalisi, Estero
           </small>
         </p>
         <ul>
@@ -81,6 +81,8 @@ export default function ProfessionalExperience() {
           <li>• Traduzione di documentazioni mediche e organizzazione dell'assistenza sanitaria;</li>
           <li>• Evacuazione e accoglienza di rifugiati in Italia;</li>
           <li>• Consegna medicinali del Banco Farmaceutico agli ospedali in Ucraina;</li>
+          <li>• Traduzione materiale formativo in ambito di pronto soccorso psicologico/psicotraumatologia e prevenzione del trauma vicario per personale OSC;</li>
+        
           <li>• Organizzazione di attività.</li>
         </ul>
       </StyledArticle>
@@ -272,7 +274,7 @@ export default function ProfessionalExperience() {
       {/*    Barmaid e Sala :: <small className='has-text-weight-light'>Lug 2012 – Apr 2013</small>*/}
       {/*  </h4>*/}
       {/*  <p className='subtitle is-5 is-uppercase mb-1'>*/}
-      {/*    Galleria d'arte Yellow House*/}
+      {/*    Yellow House*/}
       {/*    {' :: '}*/}
       {/*    <small className='has-text-weight-light'>Sydney, AUSTRALIA</small>*/}
       {/*  </p>*/}
