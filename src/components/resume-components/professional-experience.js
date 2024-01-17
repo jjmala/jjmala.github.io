@@ -36,26 +36,6 @@ export default function ProfessionalExperience() {
           </li>
         </ul>
       </StyledArticle>
-      {/*PROGETTO SUONI E IMMAGINI PER L'UCRAINA*/}
-      <StyledArticle>
-        <h4 className='title is-4 is-uppercase'>
-          PROGETTO SUONI e IMMAGINI per L'UCRAINA :: <small className='has-text-weight-light'> Gen - Mar 2023</small>
-        </h4>
-        <p className='subtitle is-5 is-uppercase mb-1'>Giuliano Accomazzi Coop.</p>
-        <ul>
-          <li>
-            • Conduzione di interviste a sfollati di guerra;
-          </li>
-          <li>
-            • Traduzione e creazione di sottotitoli di video proiettati nella metro del Gruppo Torinese Trasporti;
-          </li>
-          <li>
-            • Eventi musicali Suoni e Immagini il 21 e 28 gennaio 2023 con il supporto di enti e associati : Mir Now,
-            Fondazione San Paolo,
-            Fondazione Cantabile, Corale Polifonica Sommariva Bosco, Consolato Onorario Città di Torino e GTT.
-          </li>
-        </ul>
-      </StyledArticle>
       {/*EMERGENZA UCRAINA*/}
       <StyledArticle>
         <h4 className='title is-4 is-uppercase'>
@@ -92,6 +72,26 @@ export default function ProfessionalExperience() {
             tecniche EMDR)
           </li>
           <li>• Organizzazioni di attività;</li>
+        </ul>
+      </StyledArticle>
+      {/*PROGETTO SUONI E IMMAGINI PER L'UCRAINA*/}
+      <StyledArticle>
+        <h4 className='title is-4 is-uppercase'>
+          PROGETTO SUONI e IMMAGINI per L'UCRAINA :: <small className='has-text-weight-light'> Gen - Mar 2023</small>
+        </h4>
+        <p className='subtitle is-5 is-uppercase mb-1'>Giuliano Accomazzi Coop.</p>
+        <ul>
+          <li>
+            • Conduzione di interviste a sfollati di guerra;
+          </li>
+          <li>
+            • Traduzione e creazione di sottotitoli di video proiettati nella metro del Gruppo Torinese Trasporti;
+          </li>
+          <li>
+            • Eventi musicali Suoni e Immagini il 21 e 28 gennaio 2023 con il supporto di enti e associati : Mir Now,
+            Fondazione San Paolo,
+            Fondazione Cantabile, Corale Polifonica Sommariva Bosco, Consolato Onorario Città di Torino e GTT.
+          </li>
         </ul>
       </StyledArticle>
       {/*INTERPRETARIATO*/}
