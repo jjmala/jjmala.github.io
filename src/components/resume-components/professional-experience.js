@@ -70,7 +70,7 @@ export default function ProfessionalExperience() {
         <p>
           <small>
             associazione Medici per i Diritti Umani ETS, Casa Giglio Onlus, Fondazione Paideia, Pausa Cafè Scs, Giuliano Accomazzi Coop., ,
-            Casa Ukraina, A.P.R.A.G.I Gruppoanalisi, Estero
+            Casa Ukraina, A.P.R.A.G.I Gruppoanalisi, estero
           </small>
         </p>
         <ul>
