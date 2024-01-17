@@ -246,7 +246,7 @@ export default function ProfessionalExperience() {
           Barmaid, Barback e Runner :: <small className='has-text-weight-light'>2012 – 2013</small>
         </h4>
         <p className='subtitle is-5 is-uppercase mb-1'>
-          Opera Bar, Bill and Toni's, Galleria d'arte Yellow House
+          Opera Bar, Bill and Toni's, Yellow House
           {' :: '}
           <small className='has-text-weight-light'>Sydney, AUSTRALIA</small>
         </p>
