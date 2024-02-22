@@ -20,6 +20,9 @@ export default function Information() {
             <strong>{contacts.email}</strong>
           </a>
           <br />
+          Partita IVA&nbsp;
+            <strong>IT13021980019</strong>
+          <br />
           Sito web&nbsp;
           <a href={contacts.website}>
             <strong>{contacts.website}</strong>
