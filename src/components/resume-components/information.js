@@ -34,6 +34,7 @@ export default function Information() {
           <a href={social.linkedin} rel="noreferrer" target="_blank">
             <strong>Link</strong>
           </a>
+          <br />
           Partita IVA&nbsp;
             <strong>IT13021980019</strong>
         </p>
