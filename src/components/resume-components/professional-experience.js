@@ -84,7 +84,7 @@ export default function ProfessionalExperience() {
           <li>• Mediazione presso gruppi di sostegno psicologico per i profughi con esiti traumatici (con utilizzo di
             tecniche EMDR)
           </li>
-          <li>• Organizzazioni di attività;</li>
+          <li>• Organizzazione di attività;</li>
         </ul>
       </StyledArticle>
       {/*PROGETTO SUONI E IMMAGINI PER L'UCRAINA*/}
@@ -309,8 +309,8 @@ export default function ProfessionalExperience() {
           <small className='has-text-weight-light'>Torino, IT</small>
         </p>
         <ul>
-          <li>• animazione al summer-camp in lingua inglese;</li>
-          <li>• animazione durante il soggiorno estivo dei ragazzi dell'istituto presso Igea Marina</li>
+          <li>• animazione al summer-camp in lingua inglese e durante il soggiorno estivo presso Igea Marina</li>
+          {/*<li>• animazione durante il soggiorno estivo dei ragazzi dell'istituto presso Igea Marina</li>*/}
         </ul>
       </StyledArticle>
     </section>
