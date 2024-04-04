@@ -37,6 +37,9 @@ export default function Information() {
           <br />
           Partita IVA&nbsp;
             <strong>IT13021980019</strong>
+          <br />
+          Ordine Psicologi del Piemonte&nbsp;
+            <strong>n. 10535</strong>
         </p>
       </article>
     </section>
