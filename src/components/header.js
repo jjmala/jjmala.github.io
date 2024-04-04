@@ -7,7 +7,7 @@ import useResponsive from '../hooks/useResponsive';
 const StyledHeader = styled.header`
   padding: 6rem 0 2rem;
   @media print {
-    padding: 2rem 0;
+    padding: 1.5rem 0;
   }
 
   .title.is-1 {

@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
+import useResponsive from '../../hooks/useResponsive';
 
 const StyledArticle = styled.article`
     li {
@@ -8,6 +9,7 @@ const StyledArticle = styled.article`
 `;
 
 export default function ProfessionalExperience() {
+  const { isPrint } = useResponsive();
   return (
     <section className='section'>
       <h2 className='title is-2 is-size-3-mobile'>Esperienze professionali</h2>
@@ -15,20 +17,22 @@ export default function ProfessionalExperience() {
       <StyledArticle>
         <h4 className='title is-4 is-uppercase'>
           Psicologa ad orientamento Sistemico-Relazionale :: <small className='has-text-weight-light'> Marzo 2024 -
-          corso</small>
+          in corso</small>
         </h4>
         <p className='subtitle is-5 is-uppercase mb-1'>UnoBravo s.r.l.</p>
         <ul>
           <li>
-            • <a href="https://www.unobravo.com/psicologi/zhaklin-mala" rel="noreferrer" target="_blank">Profilo pubblico</a>
+            • <a href='https://www.unobravo.com/psicologi/zhaklin-mala' rel='noreferrer' target='_blank'>
+            {isPrint ? 'https://www.unobravo.com/psicologi/zhaklin-mala' : 'Profilo pubblico'}
+          </a>
           </li>
         </ul>
-      </StyledArticle>    
+      </StyledArticle>
       {/*TIROCINIO di SPECIALIZZAZIONE in PSICOTERAPIA */}
       <StyledArticle>
         <h4 className='title is-4 is-uppercase'>
           TIROCINIO di SPECIALIZZAZIONE in PSICOTERAPIA :: <small className='has-text-weight-light'> 450 ore -
-          corso</small>
+          in corso</small>
         </h4>
         <p className='subtitle is-5 is-uppercase mb-1'>PSICOLOGIA CLINICA, Reparto di Oncologia dei P.O. Molinette e
           Sant'Anna</p>
