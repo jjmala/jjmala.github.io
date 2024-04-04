@@ -11,11 +11,6 @@ export default function ProfessionalExperience() {
   return (
     <section className='section'>
       <h2 className='title is-2 is-size-3-mobile'>Esperienze professionali</h2>
-
-    Psicologa ad orientamento Sistemico-Relazionale :: Marzo 2024 - In corso
-UnoBravo s.r.l. 
-•⁠  ⁠[Profilo pubblico](https://www.unobravo.com/psicologi/zhaklin-mala)
-•⁠  ⁠[NON SO SE VUOI AGGIUNGERE DEI PUNTI]
       {/*UNOBRAVO */}
       <StyledArticle>
         <h4 className='title is-4 is-uppercase'>
