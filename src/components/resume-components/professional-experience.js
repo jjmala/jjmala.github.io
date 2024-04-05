@@ -1,6 +1,5 @@
 import React from 'react';
 import styled from 'styled-components';
-import useMetadata from '../../hooks/useMetadata';
 import useResponsive from '../../hooks/useResponsive';
 
 const StyledArticle = styled.article`
@@ -10,8 +9,8 @@ const StyledArticle = styled.article`
 `;
 
 export default function ProfessionalExperience() {
-  const { contacts } = useMetadata();
   const { isPrint } = useResponsive();
+  debugger
   return (
     <section className='section'>
       <h2 className='title is-2 is-size-3-mobile'>Esperienze professionali</h2>
@@ -24,8 +23,8 @@ export default function ProfessionalExperience() {
         <p className='subtitle is-5 is-uppercase mb-1'>UnoBravo s.r.l.</p>
         <ul>
           <li>
-            • <a href={contacts.unobravo} rel='noreferrer' target='_blank'>
-            {isPrint ? contacts.unobravo : 'Profilo pubblico'}
+            • <a href='https://www.unobravo.com/psicologi/zhaklin-mala' rel='noreferrer' target='_blank'>
+            {isPrint ? 'https://www.unobravo.com/psicologi/zhaklin-mala' : 'Profilo pubblico'}
           </a>
           </li>
         </ul>

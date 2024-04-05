@@ -26,8 +26,8 @@ export default function Information() {
           </a>
           <br />
           Profilo UnoBravo&nbsp;
-          <a href={contacts.unboravo} rel="noreferrer" target="_blank">
-            <strong>{isPrint ? contacts.unboravo : 'Link'}</strong>
+          <a href='https://www.unobravo.com/psicologi/zhaklin-mala' rel="noreferrer" target="_blank">
+            <strong>{isPrint ? 'https://www.unobravo.com/psicologi/zhaklin-mala' : 'Link'}</strong>
           </a>
           <br />
           Ricerca&nbsp;

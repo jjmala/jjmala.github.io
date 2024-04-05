@@ -1,5 +1,4 @@
 import React from 'react';
-import { StaticImage } from 'gatsby-plugin-image';
 import styled from 'styled-components';
 import useMetadata from '../hooks/useMetadata';
 import useResponsive from '../hooks/useResponsive';
@@ -31,7 +30,7 @@ const StyledHeader = styled.header`
 
 const Header = () => {
   const { social } = useMetadata();
-  const { isMobile, isPrint } = useResponsive();
+  const { isMobile } = useResponsive();
   return (
     <StyledHeader className="has-text-centered has-text-grey-dark is-uppercase">
       {/*<StaticImage*/}
