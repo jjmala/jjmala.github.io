@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
+import useMetadata from '../../hooks/useMetadata';
 import useResponsive from '../../hooks/useResponsive';
 
 const StyledArticle = styled.article`
