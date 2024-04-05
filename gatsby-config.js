@@ -9,6 +9,7 @@ module.exports = {
       email: 'zhaklin.mala@gmail.com',
       website: 'https://jjmala.github.io',
       project: 'https://malingering.netlify.app',
+      unobravo: 'https://www.unobravo.com/psicologi/zhaklin-mala',
     },
     social: {
       github: 'https://github.com/jjmala',
