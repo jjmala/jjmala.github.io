@@ -25,6 +25,11 @@ export default function Information() {
             <strong>{contacts.website}</strong>
           </a>
           <br />
+          Profilo UnoBravo&nbsp;
+          <a href={contacts.unboravo} rel="noreferrer" target="_blank">
+            <strong>{isPrint ? contacts.unboravo : 'Link'}</strong>
+          </a>
+          <br />
           Ricerca&nbsp;
           <a href={contacts.project} rel="noreferrer" target="_blank">
             <strong>{isPrint ? contacts.project : 'Malingering'}</strong>
