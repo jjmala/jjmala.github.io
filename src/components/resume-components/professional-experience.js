@@ -9,6 +9,7 @@ const StyledArticle = styled.article`
 `;
 
 export default function ProfessionalExperience() {
+  const { contacts } = useMetadata();
   const { isPrint } = useResponsive();
   return (
     <section className='section'>
@@ -22,8 +23,8 @@ export default function ProfessionalExperience() {
         <p className='subtitle is-5 is-uppercase mb-1'>UnoBravo s.r.l.</p>
         <ul>
           <li>
-            • <a href='https://www.unobravo.com/psicologi/zhaklin-mala' rel='noreferrer' target='_blank'>
-            {isPrint ? 'https://www.unobravo.com/psicologi/zhaklin-mala' : 'Profilo pubblico'}
+            • <a href={contacts.unobravo} rel='noreferrer' target='_blank'>
+            {isPrint ? contacts.unobravo : 'Profilo pubblico'}
           </a>
           </li>
         </ul>
