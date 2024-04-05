@@ -21,13 +21,12 @@ export default function ProfessionalExperience() {
           in corso</small>
         </h4>
         <p className='subtitle is-5 is-uppercase mb-1'>UnoBravo s.r.l.</p>
-        <ul>
-          <li>
-            • <a href='https://www.unobravo.com/psicologi/zhaklin-mala' rel='noreferrer' target='_blank'>
+        <p className='subtitle is-5 is-uppercase mb-1'>
+          <a href='https://www.unobravo.com/psicologi/zhaklin-mala' rel='noreferrer' target='_blank'>
             {isPrint ? 'https://www.unobravo.com/psicologi/zhaklin-mala' : 'Profilo pubblico'}
           </a>
-          </li>
-        </ul>
+        </p>
+
       </StyledArticle>
       {/*TIROCINIO di SPECIALIZZAZIONE in PSICOTERAPIA */}
       <StyledArticle>
