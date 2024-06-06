@@ -32,7 +32,7 @@ export default function ProfessionalExperience() {
       <StyledArticle>
         <h4 className='title is-4 is-uppercase'>
           TIROCINIO di SPECIALIZZAZIONE in PSICOTERAPIA :: <small className='has-text-weight-light'> 450 ore -
-          in corso</small>
+          da Settembre 2023 a Giugno 2024</small>
         </h4>
         <p className='subtitle is-5 is-uppercase mb-1'>PSICOLOGIA CLINICA, Reparto di Oncologia dei P.O. Molinette e
           Sant'Anna</p>
@@ -48,8 +48,9 @@ export default function ProfessionalExperience() {
             • Training di applicazione di tecniche di rilassamento individuali e di gruppo;
           </li>
           <li>
-            • Nel corso del tirocinio ho avuto modo di seguire diversi pazienti oncologici, i loro caregivers e pazienti
-            che stavano affrontando il lutto in seguito alla perdita di cari per malattia neoplastica.
+            • Durante il periodo di tirocinio, ho avuto l'opportunità di assistere un ampio spettro di pazienti
+            oncologici, supportando anche i loro caregivers e persone impegnate nel processo di lutto in seguito alla
+            perdita di familiari a causa di patologie neoplastiche.
           </li>
         </ul>
       </StyledArticle>
@@ -73,11 +74,10 @@ export default function ProfessionalExperience() {
         {/*  <small className='has-text-weight-light'>Torino, IT; Przemysl, PL; Lviv, UA; Kyiv, UA</small>*/}
         {/*</p>*/}
         <ul>
+          <li>• Conduzione di colloqui di sostegno psicologico in Italia;</li>
+          <li>• Traduzione di sedute psicoterapiche in Italia;</li>
           <li>• Traduzioni e sostegno psicologico presso il centro di aiuti umanitari Tesco a Przemysl in Polonia;</li>
           <li>• Gestione e supporto per rifugiati;</li>
-          <li>• Conduzione di colloqui individuali di sostegno psicologico e traduzione di sedute psicoterapiche in
-            Italia;
-          </li>
           <li>• Mediazione culturale e risoluzione di conflitti;</li>
           <li>• Traduzione di documentazioni mediche e organizzazione dell'assistenza sanitaria;</li>
           <li>• Evacuazione e accoglienza di rifugiati in Italia;</li>
@@ -94,7 +94,7 @@ export default function ProfessionalExperience() {
       {/*PROGETTO SUONI E IMMAGINI PER L'UCRAINA*/}
       <StyledArticle>
         <h4 className='title is-4 is-uppercase'>
-          PROGETTO SUONI e IMMAGINI per L'UCRAINA :: <small className='has-text-weight-light'> Gen - Mar 2023</small>
+        PROGETTO SUONI e IMMAGINI per L'UCRAINA :: <small className='has-text-weight-light'> Gen - Mar 2023</small>
         </h4>
         <p className='subtitle is-5 is-uppercase mb-1'>Giuliano Accomazzi Coop.</p>
         <ul>
@@ -149,7 +149,7 @@ export default function ProfessionalExperience() {
             • Hostess di lingua tedesca e inglese per TUR IN TUR snc. Langhe, ITA. 2014;
           </li>
           <li>
-            • Impartizione di lezioni private di italiano in presenza (Australia) e a distanza (Russia). 2012-2016.
+            • Insegnante privato di italiano in presenza in Australia e a distanza in Russia. 2012-2016.
           </li>
         </ul>
       </StyledArticle>
