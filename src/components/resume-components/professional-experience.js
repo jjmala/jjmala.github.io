@@ -39,26 +39,25 @@ export default function ProfessionalExperience() {
         <p className='subtitle is-5 is-uppercase mb-1'> A.O.U. Città della Salute e della Scienza di Torino </p>
         <ul>
           <li>
-            • Valutazione psicodiagnostica;
+            • Assistenza di un ampio spettro di pazienti oncologici, supporto dei loro caregivers e delle persone
+            impegnate nel processo di lutto in seguito alla perdita di familiari a causa di patologie neoplastiche.
           </li>
           <li>
             • Conduzioni di colloqui psicologici clinici individuali;
           </li>
           <li>
-            • Training di applicazione di tecniche di rilassamento individuali e di gruppo;
+            • Valutazione psicodiagnostica;
           </li>
           <li>
-            • Durante il periodo di tirocinio, ho avuto l'opportunità di assistere un ampio spettro di pazienti
-            oncologici, supportando anche i loro caregivers e persone impegnate nel processo di lutto in seguito alla
-            perdita di familiari a causa di patologie neoplastiche.
+            • Training di applicazione di tecniche di rilassamento individuali e di gruppo;
           </li>
         </ul>
       </StyledArticle>
       {/*EMERGENZA UCRAINA*/}
       <StyledArticle>
-        <h4 className='title is-4 is-uppercase'>
+        <h4 className="title is-4 is-uppercase">
           Attività Emergenza Ucraina ::{' '}
-          <small className='has-text-weight-light'>da Marzo 2022 - in corso</small>
+          <small className="has-text-weight-light">da Marzo 2022 - in corso</small>
         </h4>
         <p className='subtitle is-5 is-uppercase mb-1'>
           <a href='https://casagiglio.org/'>Coordinamento Mir Now!</a>, Ass. Medici per i Diritti Umani ETS, Casa Giglio
