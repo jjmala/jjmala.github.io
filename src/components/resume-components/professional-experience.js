@@ -40,16 +40,13 @@ export default function ProfessionalExperience() {
         <ul>
           <li>
             • Assistenza di un ampio spettro di pazienti oncologici, supporto dei loro caregivers e delle persone
-            impegnate nel processo di lutto in seguito alla perdita di familiari a causa di patologie neoplastiche.
+            impegnate nel processo di lutto in seguito alla perdita di familiari a causa di patologie neoplastiche;
           </li>
           <li>
-            • Conduzioni di colloqui psicologici clinici individuali;
+            • Conduzione di colloqui psicologici clinici individuali e valutazione psicodiagnostica;
           </li>
           <li>
-            • Valutazione psicodiagnostica;
-          </li>
-          <li>
-            • Training di applicazione di tecniche di rilassamento individuali e di gruppo;
+            • Training di applicazione di tecniche di rilassamento individuali e di gruppo.
           </li>
         </ul>
       </StyledArticle>
@@ -87,7 +84,7 @@ export default function ProfessionalExperience() {
           <li>• Mediazione presso gruppi di sostegno psicologico per i profughi con esiti traumatici (con utilizzo di
             tecniche EMDR)
           </li>
-          <li>• Organizzazione di attività;</li>
+          <li>• Organizzazione di attività.</li>
         </ul>
       </StyledArticle>
       {/*PROGETTO SUONI E IMMAGINI PER L'UCRAINA*/}
@@ -313,7 +310,6 @@ export default function ProfessionalExperience() {
         </p>
         <ul>
           <li>• animazione al summer-camp in lingua inglese e durante il soggiorno estivo presso Igea Marina</li>
-          {/*<li>• animazione durante il soggiorno estivo dei ragazzi dell'istituto presso Igea Marina</li>*/}
         </ul>
       </StyledArticle>
     </section>
