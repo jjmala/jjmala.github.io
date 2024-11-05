@@ -9,6 +9,14 @@ export default function Education() {
     <section className="section">
       <h2 className="title is-2 is-size-3-mobile">Formazione</h2>
       <article>
+     <p>
+          <strong>Master di II livello | Metodi analogici, oggetti fluttuanti e
+narrativa simbolica in psicoterapia</strong>
+          {" :: "}
+          <small className="has-text-weight-light">2024 </small>
+          <br />
+          <small>Istituto di Psicoterapia, CSTFR EMMECI s.c. Torino, Italia</small>
+        </p>
     <p> <strong>Master di II livello | Aiutare i Minori in Difficoltà</strong>
           {" :: "}
           <small className="has-text-weight-light">2023</small>
