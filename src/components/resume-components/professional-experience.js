@@ -116,7 +116,7 @@ export default function ProfessionalExperience() {
         <p className='subtitle is-5 is-uppercase mb-1'>Freelance per Aziende e Privati</p>
         <ul>
           <li>
-            • Mediazione per OR.S.A. Cooperativa Sociale. Nov 2022 - in corso;
+            • Mediazione per OR.S.A. Cooperativa Sociale. Nov 2022 - Giu 2024;
           </li>
           <li>
             • Mediazione culturale e interpretariato. Casa Giglio Onlus, Torino. Apr 2022 - Dic 2022;
