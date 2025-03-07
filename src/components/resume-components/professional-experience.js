@@ -31,7 +31,7 @@ export default function ProfessionalExperience() {
       {/*TIROCINIO di SPECIALIZZAZIONE in PSICOTERAPIA */}
       <StyledArticle>
         <h4 className='title is-4 is-uppercase'>
-          TIROCINIO di SPECIALIZZAZIONE in PSICOTERAPIA :: <small className='has-text-weight-light'> 450 ore -
+          TIROCINIO di SPECIALIZZAZIONE in PSICOTERAPIA :: <small className='has-text-weight-light'> 400 ore -
           da Settembre 2023 a Giugno 2024</small>
         </h4>
         <p className='subtitle is-5 is-uppercase mb-1'>PSICOLOGIA CLINICA, Reparto di Oncologia dei P.O. Molinette e
