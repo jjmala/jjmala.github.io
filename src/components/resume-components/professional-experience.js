@@ -54,7 +54,7 @@ export default function ProfessionalExperience() {
       <StyledArticle>
         <h4 className="title is-4 is-uppercase">
           Attività Emergenza Ucraina ::{' '}
-          <small className="has-text-weight-light">da Marzo 2022 - in corso</small>
+          <small className="has-text-weight-light">da Marzo 2022 - 2025</small>
         </h4>
         <p className='subtitle is-5 is-uppercase mb-1'>
           <a href='https://casagiglio.org/'>Coordinamento Mir Now!</a>, Ass. Medici per i Diritti Umani ETS, Casa Giglio
@@ -157,10 +157,10 @@ export default function ProfessionalExperience() {
         </h4>
         <p className='subtitle is-5 is-uppercase mb-1'></p>
         <ul>
-          <li>• Seminario "Squid Frame: Effetto Lucifero e serialità televisiva". Dipartimento di Scienze Sociali
-            Università degli Studi di Napoli Federico II. Giu 2022;
+          <li>• Seminario "Squid Frame: Effetto Lucifero e serialità televisiva". Intervento come relatrice su dinamiche di gruppo, potere e morale all’interno delle narrazioni mediatiche.  <em>Dipartimento di Scienze Sociali
+            Università degli Studi di Napoli Federico II</em> Giu 2022;
           </li>
-          <li>• Seminario ”Il Sistema degli Oggetti”. Accademia delle Belle Arti di Napoli. Giu 2021.</li>
+          <li>• Seminario ”Il Sistema degli Oggetti”. <em>Accademia delle Belle Arti di Napoli</em> Giu 2021.</li>
         </ul>
       </StyledArticle>
       {/*Protezione Civile*/}
