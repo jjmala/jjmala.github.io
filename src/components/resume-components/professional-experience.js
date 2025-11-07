@@ -70,22 +70,21 @@ export default function ProfessionalExperience() {
         {/*  <small className='has-text-weight-light'>Torino, IT; Przemysl, PL; Lviv, UA; Kyiv, UA</small>*/}
         {/*</p>*/}
         <ul>
-          <li>• Conduzione di colloqui di sostegno psicologico in Italia;</li>
-          <li>• Traduzione di sedute psicoterapiche in Italia;</li>
-          <li>• Traduzioni e sostegno psicologico presso il centro di aiuti umanitari Tesco a Przemysl in Polonia;</li>
-          <li>• Gestione e supporto per rifugiati;</li>
-          <li>• Mediazione culturale e risoluzione di conflitti;</li>
-          <li>• Traduzione di documentazioni mediche e organizzazione dell'assistenza sanitaria;</li>
-          <li>• Evacuazione e accoglienza di rifugiati in Italia;</li>
-          <li>• Consegna medicinali del Banco Farmaceutico agli ospedali in Ucraina;</li>
-          <li>• Traduzione materiale formativo in ambito di pronto soccorso psicologico/psicotraumatologia per personale
-            OSC locale;
+          <li>• Conduzione di colloqui di sostegno psicologico con adulti e adolescenti in Italia;</li>
+          <li>• Traduzione e mediazione linguistico-culturale durante sedute psicoterapeutiche, facilitando la comprensione reciproca e la continuità del percorso clinico;</li>
+          <li>• Supporto psicologico e orientamento a persone in fuga dalla guerra presso il centro di aiuti umanitari Tesco a Przemysl (Polonia);</li>
+          <li>• Coordinamento di attività di accoglienza e evacuazione per rifugiati, con particolare attenzione agli aspetti emotivi e relazionali del processo migratorio;</li>
+          <li>• Mediazione culturale e risoluzione di conflitti in contesti multiculturali e di emergenza e di co-housing;</li>
+          <li>• Traduzione di documentazioni mediche e organizzazione dell'assistenza sanitaria per pazienti rifugiati;</li>
+          <li>• Gestione logistica e supporto psicologico nell’evacuazione e accoglienza dei rifugiati in Italia;</li>
+          <li>• Distribuzione di farmaci del Banco Farmaceutico agli ospedali in Ucraina;</li>
+          <li>• Formazione in pronto soccorso psicologico e psicotraumatologia rivolta al personale delle organizzazioni della società civile locale, in collaborazione con <a target="_blank" href="https://mediciperidirittiumani.org/"><strong> MEDU </strong></a>;
           </li>
-          <li>• Mediazione presso <a target="_blank" href="https://www.centroarcipelago.org/sotto-lo-stesso-cielo-gruppi-di-sostegno-gratuiti/"><strong>gruppi
-            di sostegno psicologico</strong></a> per i profughi con esiti traumatici (con utilizzo di
-            tecniche EMDR)
+          <li>• Facilitazione di gruppi di sostegno psicologico per profughi con esiti traumatici, in collaborazione con il <a target="_blank" href="https://www.centroarcipelago.org/sotto-lo-stesso-cielo-gruppi-di-sostegno-gratuiti/"><strong>
+            Centro Arcipelago</strong></a>, con utilizzo di tecniche EMDR
           </li>
-          <li>• Organizzazione di attività.</li>
+          <li>• Ideazione e coordinamento di attività psicoeducative e socializzanti per famiglie rifugiate presso <a target="_blank" href="https://cascinafalchera.it/wp-content/uploads/2023/05/Casa-Ucraina.pdf/"><strong> Casa Ucraina</strong></a></li>
+      
         </ul>
       </StyledArticle>
       {/*PROGETTO SUONI E IMMAGINI PER L'UCRAINA*/}
