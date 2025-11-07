@@ -13,28 +13,37 @@ import EducationExperience from '../components/resume-components/education-exper
 import useResponsive from '../hooks/useResponsive';
 
 const StyledContainer = styled.div`
-  main {
-    margin-top: 0.5rem;
-    font-weight: 200;
-    margin-bottom: 3rem;
+    main {
+        margin-top: 0.5rem;
+        font-weight: 200;
+        margin-bottom: 3rem;
 
-    p {
-      font-size: 1.6rem;
-    }
+        p {
+            font-size: 1.6rem;
+        }
 
-    article:not(:last-child) {
-      margin-bottom: 2rem;
-    }
+        article:not(:last-child) {
+            margin-bottom: 2rem;
+            @media print {
+                margin-bottom: 1rem;
+            }
+        }
 
-    section {
-      background: #fff;
-      margin-bottom: 2rem;
-      padding: 2rem 2rem 3rem;
-      border-top: 0.5rem solid hsl(217, 71%, 53%);
-      border-bottom-left-radius: 1rem;
-      border-bottom-right-radius: 1rem;
+
+        section {
+            background: #fff;
+            margin-bottom: 2rem;
+            padding: 2rem 2rem 3rem;
+            border-top: 0.5rem solid hsl(217, 71%, 53%);
+            border-bottom-left-radius: 1rem;
+            border-bottom-right-radius: 1rem;
+
+            @media print {
+                padding: 0rem 2rem 3rem;
+                margin-bottom: 0rem;
+            }
+        }
     }
-  }
 `;
 
 const IndexPage = () => {

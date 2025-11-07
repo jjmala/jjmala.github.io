@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function EducationSide() {
   return (
-    <section className="section pagebreak">
+    <section className="section">
       <h2 className="title is-2 is-size-3-mobile">Esperienze formative</h2>
       <article>
         <p>

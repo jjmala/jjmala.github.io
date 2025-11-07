@@ -10,7 +10,6 @@ const StyledArticle = styled.article`
 
 export default function ProfessionalExperience() {
   const { isPrint } = useResponsive();
-  debugger
   return (
     <section className="section">
       <h2 className="title is-2 is-size-3-mobile">Esperienze professionali</h2>
@@ -223,6 +222,7 @@ export default function ProfessionalExperience() {
           <li>• Insegnante di sostegno.</li>
         </ul>
       </StyledArticle>
+      <h2 className="title is-2 is-size-3-mobile print-only pagebreak">Esperienze professionali (continua)</h2>
       {/*Tirocinio post-lauream*/}
       <StyledArticle>
         <h4 className="title is-4 is-uppercase">

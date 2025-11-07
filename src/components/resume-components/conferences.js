@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function EducationSide() {
   return (
-    <section className="section pagebreak">
+    <section className="section">
       <h2 className="title is-2 is-size-3-mobile">Seminari, laboratori e convegni</h2>
      <article>
         <h4 className="title is-4 is-uppercase">CORPO, CURA E CREATIVITA'
@@ -19,7 +19,7 @@ IL TRATTAMENTO CORALE DEL TRAUMA. DIALOGHI TRA GRUPPOANALISI, TERAPIE ESPRESSIVE
           {' :: '}
           <small className="has-text-weight-light">Torino, Italia</small>
         </p>
-                 </article> 
+                 </article>
              <article>
         <h4 className="title is-4 is-uppercase">
           Connessioni emotive e costruzione dell'identità di gruppo
@@ -35,7 +35,7 @@ IL TRATTAMENTO CORALE DEL TRAUMA. DIALOGHI TRA GRUPPOANALISI, TERAPIE ESPRESSIVE
           {' :: '}
           <small className="has-text-weight-light">Torino, Italia</small>
         </p>
-      </article> 
+      </article>
              <article>
         <h4 className="title is-4 is-uppercase">
          Il ritiro sociale negli adolescenti. La solitudine di una generazione iperconnessa
@@ -51,7 +51,7 @@ IL TRATTAMENTO CORALE DEL TRAUMA. DIALOGHI TRA GRUPPOANALISI, TERAPIE ESPRESSIVE
           {' :: '}
           <small className="has-text-weight-light">Torino, Italia</small>
         </p>
-      </article> 
+      </article>
                <article>
         <h4 className="title is-4 is-uppercase">
         Integrazione delle cure e innovazioni in Psico-Oncologia
@@ -67,7 +67,7 @@ IL TRATTAMENTO CORALE DEL TRAUMA. DIALOGHI TRA GRUPPOANALISI, TERAPIE ESPRESSIVE
           {' :: '}
           <small className="has-text-weight-light">Torino, Italia</small>
         </p>
-      </article> 
+      </article>
                <article>
         <h4 className="title is-4 is-uppercase">
         La terapia familiare e i disturbi di apprendimento
@@ -83,7 +83,7 @@ IL TRATTAMENTO CORALE DEL TRAUMA. DIALOGHI TRA GRUPPOANALISI, TERAPIE ESPRESSIVE
           {' :: '}
           <small className="has-text-weight-light">Torino, Italia</small>
         </p>
-      </article> 
+      </article>
              <article>
         <h4 className="title is-4 is-uppercase">
    L'abuso sessuale in famiglia quando chi abusa è un fratello
@@ -99,7 +99,7 @@ IL TRATTAMENTO CORALE DEL TRAUMA. DIALOGHI TRA GRUPPOANALISI, TERAPIE ESPRESSIVE
           {' :: '}
           <small className="has-text-weight-light">Torino, Italia</small>
         </p>
-      </article> 
+      </article>
                     <article>
         <h4 className="title is-4 is-uppercase">
        Il viaggio nell'oceano borderline: l'esperienza emozionale del terapeuta
@@ -115,7 +115,7 @@ IL TRATTAMENTO CORALE DEL TRAUMA. DIALOGHI TRA GRUPPOANALISI, TERAPIE ESPRESSIVE
           {' :: '}
           <small className="has-text-weight-light">Torino, Italia</small>
         </p>
-      </article> 
+      </article>
                  <article>
         <h4 className="title is-4 is-uppercase">
         La famiglia e la coppia del paziente oncologico
@@ -131,7 +131,7 @@ IL TRATTAMENTO CORALE DEL TRAUMA. DIALOGHI TRA GRUPPOANALISI, TERAPIE ESPRESSIVE
           {' :: '}
           <small className="has-text-weight-light">Torino, Italia</small>
         </p>
-      </article> 
+      </article>
       <article>
         <h4 className="title is-4 is-uppercase">
           Terapia di rete e lavoro multifamiliare con pazienti psichiatrici
