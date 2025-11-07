@@ -160,7 +160,7 @@ export default function ProfessionalExperience() {
           <li>• Seminario "Squid Frame: Effetto Lucifero e serialità televisiva". Intervento come relatrice su dinamiche di gruppo, potere e morale all’interno delle narrazioni mediatiche.  <em>Dipartimento di Scienze Sociali
             Università degli Studi di Napoli Federico II</em> Giu 2022;
           </li>
-          <li>• Seminario ”Il Sistema degli Oggetti”. <em>Accademia delle Belle Arti di Napoli</em> Giu 2021.</li>
+          <li>• Seminario ”Il Sistema degli Oggetti”. Approfondimento sui processi simbolici e relazionali legati al consumo e all’identità<em>Accademia delle Belle Arti di Napoli</em> Giu 2021. Invitata come relatrice a interventi accademici su tematiche di psicologia e sociologia applicata, con focus su aspetti simbolici, relazionali e culturali dei fenomeni sociali contemporanei.</li>
         </ul>
       </StyledArticle>
       {/*Protezione Civile*/}
