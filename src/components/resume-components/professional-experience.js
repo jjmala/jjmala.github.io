@@ -54,7 +54,7 @@ export default function ProfessionalExperience() {
       <StyledArticle>
         <h4 className="title is-4 is-uppercase">
           Attività Emergenza Ucraina ::{' '}
-          <small className="has-text-weight-light">da Marzo 2022 - in corso</small>
+          <small className="has-text-weight-light">da Marzo 2022 - 2025</small>
         </h4>
         <p className="subtitle is-5 is-uppercase mb-1">
           <a href="https://casagiglio.org/">Coordinamento Mir Now!</a>, Ass. Medici per i Diritti Umani ETS, Casa Giglio
@@ -70,23 +70,25 @@ export default function ProfessionalExperience() {
         {/*  <small className='has-text-weight-light'>Torino, IT; Przemysl, PL; Lviv, UA; Kyiv, UA</small>*/}
         {/*</p>*/}
         <ul>
-          <li>• Conduzione di colloqui di sostegno psicologico in Italia;</li>
-          <li>• Traduzione di sedute psicoterapiche in Italia;</li>
-          <li>• Traduzioni e sostegno psicologico presso il centro di aiuti umanitari Tesco a Przemysl in Polonia;</li>
-          <li>• Gestione e supporto per rifugiati;</li>
-          <li>• Mediazione culturale e risoluzione di conflitti;</li>
-          <li>• Traduzione di documentazioni mediche e organizzazione dell'assistenza sanitaria;</li>
-          <li>• Evacuazione e accoglienza di rifugiati in Italia;</li>
-          <li>• Consegna medicinali del Banco Farmaceutico agli ospedali in Ucraina;</li>
-          <li>• Traduzione materiale formativo in ambito di pronto soccorso psicologico/psicotraumatologia per personale
-            OSC locale;
+          <li>• Conduzione di colloqui di sostegno psicologico con adulti e adolescenti in Italia;</li>
+          <li>• Traduzione e mediazione linguistico-culturale durante sedute psicoterapeutiche, facilitando la comprensione reciproca e la continuità del percorso clinico;</li>
+          <li>• Supporto psicologico e orientamento a persone in fuga dalla guerra presso il centro di aiuti umanitari Tesco a Przemysl (Polonia);</li>
+          <li>• Coordinamento di attività di accoglienza e evacuazione per rifugiati, con particolare attenzione agli aspetti emotivi e relazionali del processo migratorio;</li>
+          <li>• Mediazione culturale e risoluzione di conflitti in contesti multiculturali e di emergenza e di co-housing;</li>
+          <li>• Traduzione di documentazioni mediche e organizzazione dell'assistenza sanitaria per pazienti rifugiati;</li>
+          <li>• Gestione logistica e supporto psicologico nell’evacuazione e accoglienza dei rifugiati in Italia;</li>
+          <li>• Distribuzione di farmaci del Banco Farmaceutico agli ospedali in Ucraina;</li>
+          <li>• Formazione in pronto soccorso psicologico e psicotraumatologia rivolta al personale delle organizzazioni della società civile locale, in collaborazione con <a target="_blank" href="https://mediciperidirittiumani.org/"><strong> MEDU </strong></a>;
           </li>
+          <li>• Facilitazione di gruppi di sostegno psicologico per profughi con esiti traumatici, in collaborazione con il <a target="_blank" href="https://www.centroarcipelago.org/sotto-lo-stesso-cielo-gruppi-di-sostegno-gratuiti/"><strong>
+            Centro Arcipelago</strong></a>, con utilizzo di tecniche EMDR
           <li>• Mediazione presso <a target="_blank" rel="noreferrer"
                                      href="https://www.centroarcipelago.org/sotto-lo-stesso-cielo-gruppi-di-sostegno-gratuiti/"><strong>gruppi
             di sostegno psicologico</strong></a> per i profughi con esiti traumatici (con utilizzo di
             tecniche EMDR)
           </li>
-          <li>• Organizzazione di attività.</li>
+          <li>• Ideazione e coordinamento di attività psicoeducative e socializzanti per famiglie rifugiate presso <a target="_blank" href="https://cascinafalchera.it/wp-content/uploads/2023/05/Casa-Ucraina.pdf/"><strong> Casa Ucraina</strong></a></li>
+
         </ul>
       </StyledArticle>
       {/*PROGETTO SUONI E IMMAGINI PER L'UCRAINA*/}
@@ -159,10 +161,10 @@ export default function ProfessionalExperience() {
         </h4>
         <p className="subtitle is-5 is-uppercase mb-1"></p>
         <ul>
-          <li>• Seminario "Squid Frame: Effetto Lucifero e serialità televisiva". Dipartimento di Scienze Sociali
-            Università degli Studi di Napoli Federico II. Giu 2022;
+          <li>• Seminario "Squid Frame: Effetto Lucifero e serialità televisiva". Intervento come relatrice su dinamiche di gruppo, potere e morale all’interno delle narrazioni mediatiche.  <em>Dipartimento di Scienze Sociali
+            Università degli Studi di Napoli Federico II</em> Giu 2022;
           </li>
-          <li>• Seminario ”Il Sistema degli Oggetti”. Accademia delle Belle Arti di Napoli. Giu 2021.</li>
+          <li>• Seminario ”Il Sistema degli Oggetti”. Approfondimento sui processi simbolici e relazionali legati al consumo e all’identità<em>Accademia delle Belle Arti di Napoli</em> Giu 2021. Invitata come relatrice a interventi accademici su tematiche di psicologia e sociologia applicata, con focus su aspetti simbolici, relazionali e culturali dei fenomeni sociali contemporanei.</li>
         </ul>
       </StyledArticle>
       {/*Protezione Civile*/}
