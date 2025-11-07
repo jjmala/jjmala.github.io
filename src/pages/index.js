@@ -5,7 +5,7 @@ import Layout from '../layouts/layout';
 import Seo from '../components/seo';
 import TechnicalSkills from '../components/resume-components/technical-skills';
 import ProfessionalExperience from '../components/resume-components/professional-experience';
-import Information from '../components/resume-components/information';
+import Informations from '../components/resume-components/informations';
 import Languages from '../components/resume-components/languages';
 import Education from '../components/resume-components/education';
 import Conferences from '../components/resume-components/conferences';
@@ -45,7 +45,7 @@ const IndexPage = () => {
       <StyledContainer>
         <Seo title="Zhaklin Mala" />
         <Layout>
-          <Information />
+          <Informations />
           <Languages />
           <ProfessionalExperience />
           <Education />
@@ -68,7 +68,7 @@ const IndexPage = () => {
           </div>
           {/*SIDEBAR*/}
           <div className="column is-4">
-            <Information />
+            <Informations />
             <Languages />
             <Education />
             <EducationExperience />

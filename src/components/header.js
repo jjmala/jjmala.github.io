@@ -1,12 +1,16 @@
 import React from 'react';
 import styled from 'styled-components';
+import { StaticImage } from 'gatsby-plugin-image';
 import useMetadata from '../hooks/useMetadata';
 import useResponsive from '../hooks/useResponsive';
 
 const StyledHeader = styled.header`
-  padding: 6rem 0 2rem;
+  padding: 3rem 0 2rem 6rem;
   @media print {
     padding: 1.5rem 0;
+      .surname {
+          margin-left: 1.6rem;
+      }
   }
 
   .title.is-1 {
@@ -33,20 +37,21 @@ const Header = () => {
   const { isMobile } = useResponsive();
   return (
     <StyledHeader className="has-text-centered has-text-grey-dark is-uppercase">
-      {/*<StaticImage*/}
-      {/*  as="figure"*/}
-      {/*  className="image is-1b1 mb-5"*/}
-      {/*  imgClassName="is-rounded"*/}
-      {/*  style={{ margin: '0 auto', borderRadius: '100%' }}*/}
-      {/*  src="../images/photo.jpeg"*/}
-      {/*  alt="Jacqueline Mala"*/}
-      {/*  placeholder="dominantColor"*/}
-      {/*  layout="fixed"*/}
-      {/*  width={150}*/}
-      {/*  height={150}*/}
-      {/*/>*/}
+      <StaticImage
+        as="figure"
+        className="image is-1b1 mb-5"
+        imgClassName="is-rounded"
+        style={{ margin: '0 auto', borderRadius: '100%' }}
+        src="../images/photo.jpeg"
+        alt="Jacqueline Mala"
+        placeholder="dominantColor"
+        layout="fixed"
+        width={150}
+        height={150}
+        transformOptions={{ grayscale: true, }}
+      />
       <h1 className="title is-1 is-size-2-mobile">
-        Jacqueline{isMobile ? ' ' : ''}<span className="has-text-link">Mala</span>
+        Jacqueline{isMobile ? ' ' : ''}<span className="has-text-link surname">Mala</span>
       </h1>
       <p className="subtitle is-3 is-size-5-mobile is-uppercase">
         <small>

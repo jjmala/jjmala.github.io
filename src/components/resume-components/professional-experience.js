@@ -12,17 +12,17 @@ export default function ProfessionalExperience() {
   const { isPrint } = useResponsive();
   debugger
   return (
-    <section className='section'>
-      <h2 className='title is-2 is-size-3-mobile'>Esperienze professionali</h2>
+    <section className="section">
+      <h2 className="title is-2 is-size-3-mobile">Esperienze professionali</h2>
       {/*UNOBRAVO */}
       <StyledArticle>
-        <h4 className='title is-4 is-uppercase'>
-          Psicologa ad orientamento Sistemico-Relazionale :: <small className='has-text-weight-light'> Marzo 2024 -
+        <h4 className="title is-4 is-uppercase">
+          Psicologa ad orientamento Sistemico-Relazionale :: <small className="has-text-weight-light"> Marzo 2024 -
           in corso</small>
         </h4>
-        <p className='subtitle is-5 is-uppercase mb-1'>UnoBravo s.r.l.</p>
-        <p className='subtitle is-5 is-uppercase mb-1'>
-          <a href='https://www.unobravo.com/psicologi/zhaklin-mala' rel='noreferrer' target='_blank'>
+        <p className="subtitle is-5 is-uppercase mb-1">UnoBravo s.r.l.</p>
+        <p className="subtitle is-5 is-uppercase mb-1">
+          <a href="https://www.unobravo.com/psicologi/zhaklin-mala" target="_blank" rel="noreferrer">
             {isPrint ? 'https://www.unobravo.com/psicologi/zhaklin-mala' : 'Profilo pubblico'}
           </a>
         </p>
@@ -30,13 +30,13 @@ export default function ProfessionalExperience() {
       </StyledArticle>
       {/*TIROCINIO di SPECIALIZZAZIONE in PSICOTERAPIA */}
       <StyledArticle>
-        <h4 className='title is-4 is-uppercase'>
-          TIROCINIO di SPECIALIZZAZIONE in PSICOTERAPIA :: <small className='has-text-weight-light'> 400 ore -
+        <h4 className="title is-4 is-uppercase">
+          TIROCINIO di SPECIALIZZAZIONE in PSICOTERAPIA :: <small className="has-text-weight-light"> 400 ore -
           da Settembre 2023 a Giugno 2024</small>
         </h4>
-        <p className='subtitle is-5 is-uppercase mb-1'>PSICOLOGIA CLINICA, Reparto di Oncologia dei P.O. Molinette e
+        <p className="subtitle is-5 is-uppercase mb-1">PSICOLOGIA CLINICA, Reparto di Oncologia dei P.O. Molinette e
           Sant'Anna</p>
-        <p className='subtitle is-5 is-uppercase mb-1'> A.O.U. Città della Salute e della Scienza di Torino </p>
+        <p className="subtitle is-5 is-uppercase mb-1"> A.O.U. Città della Salute e della Scienza di Torino </p>
         <ul>
           <li>
             • Assistenza di un ampio spettro di pazienti oncologici, supporto dei loro caregivers e delle persone
@@ -56,12 +56,12 @@ export default function ProfessionalExperience() {
           Attività Emergenza Ucraina ::{' '}
           <small className="has-text-weight-light">da Marzo 2022 - in corso</small>
         </h4>
-        <p className='subtitle is-5 is-uppercase mb-1'>
-          <a href='https://casagiglio.org/'>Coordinamento Mir Now!</a>, Ass. Medici per i Diritti Umani ETS, Casa Giglio
+        <p className="subtitle is-5 is-uppercase mb-1">
+          <a href="https://casagiglio.org/">Coordinamento Mir Now!</a>, Ass. Medici per i Diritti Umani ETS, Casa Giglio
           Onlus, Fondazione Paideia, Pausa Cafè Scs, Giuliano
           Accomazzi Coop., Casa Ukraina, A.P.R.A.G.I Gruppoanalisi
           {' :: '}
-          <small className='has-text-weight-light'>Torino, IT; Przemysl, PL; Lviv, UA; Kyiv, UA</small>
+          <small className="has-text-weight-light">Torino, IT; Przemysl, PL; Lviv, UA; Kyiv, UA</small>
         </p>
         {/*<p className='subtitle is-5 is-uppercase mb-1'>*/}
         {/*  Ass. Medici per i Diritti Umani ETS, Casa Giglio Onlus, Fondazione Paideia, Pausa Cafè Scs, Giuliano*/}
@@ -81,7 +81,8 @@ export default function ProfessionalExperience() {
           <li>• Traduzione materiale formativo in ambito di pronto soccorso psicologico/psicotraumatologia per personale
             OSC locale;
           </li>
-          <li>• Mediazione presso <a target="_blank" href="https://www.centroarcipelago.org/sotto-lo-stesso-cielo-gruppi-di-sostegno-gratuiti/"><strong>gruppi
+          <li>• Mediazione presso <a target="_blank" rel="noreferrer"
+                                     href="https://www.centroarcipelago.org/sotto-lo-stesso-cielo-gruppi-di-sostegno-gratuiti/"><strong>gruppi
             di sostegno psicologico</strong></a> per i profughi con esiti traumatici (con utilizzo di
             tecniche EMDR)
           </li>
@@ -90,10 +91,10 @@ export default function ProfessionalExperience() {
       </StyledArticle>
       {/*PROGETTO SUONI E IMMAGINI PER L'UCRAINA*/}
       <StyledArticle>
-        <h4 className='title is-4 is-uppercase'>
-        PROGETTO SUONI e IMMAGINI per L'UCRAINA :: <small className='has-text-weight-light'> Gen - Mar 2023</small>
+        <h4 className="title is-4 is-uppercase">
+          PROGETTO SUONI e IMMAGINI per L'UCRAINA :: <small className="has-text-weight-light"> Gen - Mar 2023</small>
         </h4>
-        <p className='subtitle is-5 is-uppercase mb-1'>Giuliano Accomazzi Coop.</p>
+        <p className="subtitle is-5 is-uppercase mb-1">Giuliano Accomazzi Coop.</p>
         <ul>
           <li>
             • Conduzione di interviste a sfollati di guerra;
@@ -110,11 +111,11 @@ export default function ProfessionalExperience() {
       </StyledArticle>
       {/*INTERPRETARIATO*/}
       <StyledArticle>
-        <h4 className='title is-4 is-uppercase'>
-          Interpretariato, Traduzione e Mediazione :: <small className='has-text-weight-light'>dal 2011 - in
+        <h4 className="title is-4 is-uppercase">
+          Interpretariato, Traduzione e Mediazione :: <small className="has-text-weight-light">dal 2011 - in
           corso</small>
         </h4>
-        <p className='subtitle is-5 is-uppercase mb-1'>Freelance per Aziende e Privati</p>
+        <p className="subtitle is-5 is-uppercase mb-1">Freelance per Aziende e Privati</p>
         <ul>
           <li>
             • Mediazione per OR.S.A. Cooperativa Sociale. Nov 2022 - Giu 2024;
@@ -152,11 +153,11 @@ export default function ProfessionalExperience() {
       </StyledArticle>
       {/*SEMINARI*/}
       <StyledArticle>
-        <h4 className='title is-4 is-uppercase'>
-          RELATRICE SU TEMATICHE PSICOLOGICHE E SOCIOLOGICHE:: {' :: '} <small className='has-text-weight-light'>2021 e
-          2022</small> <small className='has-text-weight-light'></small>
+        <h4 className="title is-4 is-uppercase">
+          RELATRICE SU TEMATICHE PSICOLOGICHE E SOCIOLOGICHE:: {' :: '} <small className="has-text-weight-light">2021 e
+          2022</small> <small className="has-text-weight-light"></small>
         </h4>
-        <p className='subtitle is-5 is-uppercase mb-1'></p>
+        <p className="subtitle is-5 is-uppercase mb-1"></p>
         <ul>
           <li>• Seminario "Squid Frame: Effetto Lucifero e serialità televisiva". Dipartimento di Scienze Sociali
             Università degli Studi di Napoli Federico II. Giu 2022;
@@ -166,14 +167,14 @@ export default function ProfessionalExperience() {
       </StyledArticle>
       {/*Protezione Civile*/}
       <StyledArticle>
-        <h4 className='title is-4 is-uppercase'>
+        <h4 className="title is-4 is-uppercase">
           Traduzione e Mediazione culturale presso la sede della Protezione Civile ::{' '}
-          <small className='has-text-weight-light'>Apr 2022</small>
+          <small className="has-text-weight-light">Apr 2022</small>
         </h4>
-        <p className='subtitle is-5 is-uppercase mb-1'>
+        <p className="subtitle is-5 is-uppercase mb-1">
           Protezione Civile Piemonte
           {' :: '}
-          <small className='has-text-weight-light'>Torino, IT</small>
+          <small className="has-text-weight-light">Torino, IT</small>
         </p>
         <ul>
           <li>• Accoglienza, traduzione documenti e raccolta delle storie personali dei rifugiati;</li>
@@ -183,14 +184,14 @@ export default function ProfessionalExperience() {
       </StyledArticle>
       {/*Supplenze*/}
       <StyledArticle>
-        <h4 className='title is-4 is-uppercase'>
+        <h4 className="title is-4 is-uppercase">
           Supplenze nella scuola primaria e dell'infanzia ::{' '}
-          <small className='has-text-weight-light'>Set 2021 – Mag 2022</small>
+          <small className="has-text-weight-light">Set 2021 – Mag 2022</small>
         </h4>
-        <p className='subtitle is-5 is-uppercase mb-1'>
+        <p className="subtitle is-5 is-uppercase mb-1">
           I.C. Volvera e I.C. Vinovo
           {' :: '}
-          <small className='has-text-weight-light'>Provincia di Torino, IT</small>
+          <small className="has-text-weight-light">Provincia di Torino, IT</small>
         </p>
         <ul>
           <li>• Materie insegnate: italiano, storia, geografia, inglese, matematica, scienze e musica;</li>
@@ -199,25 +200,25 @@ export default function ProfessionalExperience() {
       </StyledArticle>
       {/*Tirocinio post-lauream*/}
       <StyledArticle>
-        <h4 className='title is-4 is-uppercase'>
+        <h4 className="title is-4 is-uppercase">
           Tirocinio post-lauream per l'abilitazione alla professione ::{' '}
-          <small className='has-text-weight-light'>2021-2022</small>
+          <small className="has-text-weight-light">2021-2022</small>
         </h4>
-        <p className='subtitle is-5 is-uppercase mb-1'>
+        <p className="subtitle is-5 is-uppercase mb-1">
           Attività di ricerca presso il Dipartimento di Psicologia dell'Università degli Studi di Torino
           {' :: '}
-          <small className='has-text-weight-light'>Torino, IT</small>
+          <small className="has-text-weight-light">Torino, IT</small>
         </p>
       </StyledArticle>
       {/*Servizio per Adolescenti*/}
       <StyledArticle>
-        <h4 className='title is-4 is-uppercase'>
-          Servizio per Adolescenti con difficoltà :: <small className='has-text-weight-light'>Apr – Set 2017</small>
+        <h4 className="title is-4 is-uppercase">
+          Servizio per Adolescenti con difficoltà :: <small className="has-text-weight-light">Apr – Set 2017</small>
         </h4>
-        <p className='subtitle is-5 is-uppercase mb-1'>
+        <p className="subtitle is-5 is-uppercase mb-1">
           Svolto presso privati affidatari
           {' :: '}
-          <small className='has-text-weight-light'>Bergen e Oslo, NO</small>
+          <small className="has-text-weight-light">Bergen e Oslo, NO</small>
         </p>
         <ul>
           <li>• lavoro in case-famiglia, referente: Robin Gjesdal +47 45236643</li>
@@ -225,13 +226,13 @@ export default function ProfessionalExperience() {
       </StyledArticle>
       {/*Tirocinio Accademico*/}
       <StyledArticle>
-        <h4 className='title is-4 is-uppercase'>
-          Tirocinio accademico :: <small className='has-text-weight-light'>2016</small>
+        <h4 className="title is-4 is-uppercase">
+          Tirocinio accademico :: <small className="has-text-weight-light">2016</small>
         </h4>
-        <p className='subtitle is-5 is-uppercase mb-1'>
+        <p className="subtitle is-5 is-uppercase mb-1">
           Associazione Choròs Comunità
           {' :: '}
-          <small className='has-text-weight-light'>Torino, IT</small>
+          <small className="has-text-weight-light">Torino, IT</small>
         </p>
         <ul>
           <li>
@@ -243,25 +244,25 @@ export default function ProfessionalExperience() {
       </StyledArticle>
       {/*Tex Mex Eldorado*/}
       <StyledArticle>
-        <h4 className='title is-4 is-uppercase'>
-          Barmaid e Caposala :: <small className='has-text-weight-light'>2014 – 2017</small>
+        <h4 className="title is-4 is-uppercase">
+          Barmaid e Caposala :: <small className="has-text-weight-light">2014 – 2017</small>
         </h4>
-        <p className='subtitle is-5 is-uppercase mb-1'>
+        <p className="subtitle is-5 is-uppercase mb-1">
           Tex Mex Eldorado
           {' :: '}
-          <small className='has-text-weight-light'>Torino, IT</small>
+          <small className="has-text-weight-light">Torino, IT</small>
         </p>
       </StyledArticle>
 
       {/*Australia*/}
       <StyledArticle>
-        <h4 className='title is-4 is-uppercase'>
-          Barmaid, Barback e Runner :: <small className='has-text-weight-light'>2012 – 2013</small>
+        <h4 className="title is-4 is-uppercase">
+          Barmaid, Barback e Runner :: <small className="has-text-weight-light">2012 – 2013</small>
         </h4>
-        <p className='subtitle is-5 is-uppercase mb-1'>
+        <p className="subtitle is-5 is-uppercase mb-1">
           Opera Bar, Bill and Toni's, Yellow House
           {' :: '}
-          <small className='has-text-weight-light'>Sydney, AUSTRALIA</small>
+          <small className="has-text-weight-light">Sydney, AUSTRALIA</small>
         </p>
       </StyledArticle>
 
@@ -302,12 +303,12 @@ export default function ProfessionalExperience() {
 
       {/*Assistente all'infanzia*/}
       <StyledArticle>
-        <h4 className='title is-4 is-uppercase'>
-          Assistente all'infanzia :: <small className='has-text-weight-light'>2009 – 2011</small>
+        <h4 className="title is-4 is-uppercase">
+          Assistente all'infanzia :: <small className="has-text-weight-light">2009 – 2011</small>
         </h4>
-        <p className='subtitle is-5 is-uppercase mb-1'>
+        <p className="subtitle is-5 is-uppercase mb-1">
           Convitto Nazionale Umberto I{' :: '}
-          <small className='has-text-weight-light'>Torino, IT</small>
+          <small className="has-text-weight-light">Torino, IT</small>
         </p>
         <ul>
           <li>• animazione al summer-camp in lingua inglese e durante il soggiorno estivo presso Igea Marina</li>

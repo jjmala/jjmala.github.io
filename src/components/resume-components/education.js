@@ -9,16 +9,23 @@ export default function Education() {
     <section className="section">
       <h2 className="title is-2 is-size-3-mobile">Formazione</h2>
       <article>
-     <p>
+        <p>
+          <strong>Master di II livello | Funzionamento Borderline</strong>
+          {' :: '}
+          <small className="has-text-weight-light">2025 </small>
+          <br />
+          <small>Istituto di Psicoterapia, CSTFR EMMECI s.c. Torino, Italia</small>
+        </p>
+        <p>
           <strong>Master di II livello | Metodi analogici, oggetti fluttuanti e
-narrativa simbolica in psicoterapia</strong>
-          {" :: "}
+            narrativa simbolica in psicoterapia</strong>
+          {' :: '}
           <small className="has-text-weight-light">2024 </small>
           <br />
           <small>Istituto di Psicoterapia, CSTFR EMMECI s.c. Torino, Italia</small>
         </p>
-    <p> <strong>Master di II livello | Aiutare i Minori in Difficoltà</strong>
-          {" :: "}
+        <p><strong>Master di II livello | Aiutare i Minori in Difficoltà</strong>
+          {' :: '}
           <small className="has-text-weight-light">2023</small>
           <br />
           <small>Istituto EMMECI s.c. Torino, Italia</small>
@@ -35,7 +42,8 @@ narrativa simbolica in psicoterapia</strong>
           {' :: '}
           <small className="has-text-weight-light">2022 – in corso</small>
           <br />
-          <small>Istituto EMMECI s.c., sede torinese del Centro Studi Psicoterapia Familiare e Relazionale di Roma, Italia</small>
+          <small>Istituto EMMECI s.c., sede torinese del Centro Studi Psicoterapia Familiare e Relazionale di Roma,
+            Italia</small>
         </p>
         <p>
           <strong>Laurea Magistrale | Psicologia Clinica | 107/110</strong>

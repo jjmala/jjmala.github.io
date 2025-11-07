@@ -2,7 +2,7 @@ import React from 'react';
 import useMetadata from '../../hooks/useMetadata';
 import useResponsive from '../../hooks/useResponsive';
 
-export default function Information() {
+export default function Informations() {
   const { contacts, social } = useMetadata();
   const { isPrint } = useResponsive();
   return (
@@ -40,6 +40,15 @@ export default function Information() {
           <br />
           Ordine Psicologi del Piemonte&nbsp;
             <strong>n. 10535</strong>
+          <br />
+          Studio&nbsp;
+          <strong>Via Cialdini 15, 10138, Torino</strong>
+          <br />
+          Residente a&nbsp;
+            <strong>Torino</strong>
+          <br />
+          Nata a&nbsp;
+            <strong>Odessa (UA), 21 aprile 1992</strong>
         </p>
       </article>
     </section>
